@@ -1,0 +1,93 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Probability_and_statistics" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="Objectives: 
+        To learn 
+         Understand a random variable that describes randomness or an uncertainty in certain realistic situation. It can be of either discrete or continuous type. 
+         In the discrete case, study of the binomial and the Poisson random variables and the Normal random variable for the continuous case predominantly describe important probability distributions. Important statistical properties for these random variables provide very good insight and are essential for industrial applications. 
+         Most of the random situations are described as functions of many single random variables. In this unit, the objective is to learn functions of many random variables through joint distributions. 
+         The types of sampling, Sampling distribution of means ,Sampling distribution of variance, Estimations of statistical parameters, Testing of hypothesis of few unknown statistical parameters. 
+         The mechanism of queuing system ,The characteristics of queue, The mean arrival and service rates 
+         The expected queue length, The waiting line 
+         The random processes, The classification of  random processes, Markov chain, Classification of states 
+         Stochastic matrix ( transition probability matrix ),Limiting probabilities, Applications of Markov chains "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+            
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="UNIT-I 
+                Single Random variables and probability distributions:
+                 Random variables – Discrete and continuous. Probability distributions, mass function/ density function  of  a probability distribution . Mathematical Expectation, Moment about origin, Central moments Moment generating function of probability distribution. Binomial, Poisson and normal distributions  and their properties. Moment generating functions of the above three distributions, and hence finding the mean and variance. 
+                 
+                 UNIT-II
+                  Multiple Random variables, Correlation and Regression: Joint probability distributions- Joint probability mass / density function, Marginal probability mass / density functions, Covariance of two random variables, Correlation - Coefficient of correlation, The rank correlation. Regression- Regression Coefficient, The lines of regression and multiple correlation and regression.
+                  
+                   UNIT-III 
+                   Sampling Distributions  and Testing of Hypothesis Sampling: Definitions of population, sampling, statistic, parameter. Types of sampling, Expected values of Sample mean and varience, sampling distribution, Standard error, Sampling distribution of means and sampling distribution of varience. Parameter estimations – likelihood estimate, interval estimations. Testing of hypothesis: Null hypothesis, Alternate hypothesis, type I, and type II errors – critical region, confidence interval, Level of significance. One sided test, two sided test, Large sample tests:
+                    (i) Test of Equality of means of two samples equality of sample mean and population mean (cases of known varience and unknown varience, equal and unequal variances) 
+                    (ii) Tests of significance of difference between sample S.D and population S.D. 
+                    (iii) Tests of significance difference between sample proportion and population proportion and difference between two sample proportions. Small sample tests: Student t-distribution, its properties; Test of significance difference between sample mean and population mean; difference between means of two small samples Snedecor’s F-distribution and it’s properties.
+                     Test of equality of two population variences Chi-square  distribution , it’s properties, Chi-square test of goodness of fit " 
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+            
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="UNIT-IV
+                 Queuing Theory: Structure of a queuing system, Operating Characteristics of queuing system, Transient and steady states, Terminology of Queuing systems, Arrival and service processes- Pure Birth-Death process Deterministic queuing models-M/M/1 Model of infinite queue, M/M/1 model of finite queue . 
+                 
+                 UNIT-V 
+                 Stochastic processes: Introduction to Stochastic Processes –Classification of Random processes, Methods of description of random processes, Stationary and non-stationary random process, Average values of single random process and two or more random processes. Markov process, Markov chain, classification of states – Examples of Markov Chains, Stochastic Matrix.
+
+
+TEXT BOOKS:
+ 1) Higher Engineering Mathematics by Dr. B.S. Grewal, Khanna Publishers 
+ 2) Probability and Statistics for Engineers and Scientists by Sheldon M.Ross, Academic Press 
+ 3) Operations Research by S.D. Sarma, 
+ 
+ REFERENCE BOOKS: 
+ 1. Mathematics for Engineers by K.B.Datta and M.A S.Srinivas,Cengage Publications 
+ 2. Probability and Statistics by T.K.V.Iyengar and B.Krishna Gandhi Et 
+ 3. Fundamentals of Mathematical Statistics by S C Gupta and V.K.Kapoor 
+ 4. Probability and Statistics for Engineers and Scientists by Jay l.Devore.
+ 
+  Outcomes:
+    Students would be able to identify distribution in certain realistic situation. It is mainly useful for circuit as well as non-circuit branches of engineering. Also able to differentiate among many random variable involved in the probability models. It is quite useful for all branches of engineering.
+    The student would be able to calculate mean and proportions (small and large sample) and to make important decisions from few samples which are taken out of unmanageably huge populations .It is Mainly useful for non-circuit branches of engineering. 
+    The students would be able to find the expected queue length, the ideal time, the traffic intensity and the waiting time. These are very useful tools in many engineering and data management problems in the industry. It is useful for all branches of engineering. 
+    The student would able to understand about the random process, Markov process and Markov chains which are essentially models of many time dependent processes such as signals in communications, time series analysis, queuing systems. The student would be able to find the limiting probabilities and the probabilities in nth state.It is quite useful for all branches of engineering" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout><!-- From: file:/D:/Android/JntuHR13SyllabusBook/app/src/main/res/layout/activity_probability_and_statistics.xml -->

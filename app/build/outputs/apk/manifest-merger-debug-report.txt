@@ -1,0 +1,331 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	package
+		ADDED from AndroidManifest.xml:3:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:5:5
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+uses-sdk
+ADDED from AndroidManifest.xml:7:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:9:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:8:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:11:5
+	android:maxSdkVersion
+		ADDED from AndroidManifest.xml:13:9
+	android:name
+		ADDED from AndroidManifest.xml:12:9
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from AndroidManifest.xml:14:5
+	android:name
+		ADDED from AndroidManifest.xml:14:30
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:15:5
+	android:maxSdkVersion
+		ADDED from AndroidManifest.xml:17:9
+	android:name
+		ADDED from AndroidManifest.xml:16:9
+application
+ADDED from AndroidManifest.xml:19:5
+	android:label
+		ADDED from AndroidManifest.xml:22:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:20:9
+	android:icon
+		ADDED from AndroidManifest.xml:21:9
+	android:theme
+		ADDED from AndroidManifest.xml:23:9
+activity#com.example.jntuhr13syllabusbook.MainActivity
+ADDED from AndroidManifest.xml:24:9
+	android:label
+		ADDED from AndroidManifest.xml:26:13
+	android:name
+		ADDED from AndroidManifest.xml:25:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:27:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:28:17
+	android:name
+		ADDED from AndroidManifest.xml:28:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:30:17
+	android:name
+		ADDED from AndroidManifest.xml:30:27
+activity#com.example.jntuhr13syllabusbook.Years
+ADDED from AndroidManifest.xml:33:9
+	android:label
+		ADDED from AndroidManifest.xml:35:13
+	android:name
+		ADDED from AndroidManifest.xml:34:13
+activity#com.example.jntuhr13syllabusbook.Year1_subjects
+ADDED from AndroidManifest.xml:37:9
+	android:label
+		ADDED from AndroidManifest.xml:39:13
+	android:name
+		ADDED from AndroidManifest.xml:38:13
+activity#com.example.jntuhr13syllabusbook.Mathematics_1
+ADDED from AndroidManifest.xml:41:9
+	android:label
+		ADDED from AndroidManifest.xml:43:13
+	android:name
+		ADDED from AndroidManifest.xml:42:13
+activity#com.example.jntuhr13syllabusbook.English
+ADDED from AndroidManifest.xml:45:9
+	android:label
+		ADDED from AndroidManifest.xml:47:13
+	android:name
+		ADDED from AndroidManifest.xml:46:13
+activity#com.example.jntuhr13syllabusbook.Mathematics_Methods
+ADDED from AndroidManifest.xml:49:9
+	android:label
+		ADDED from AndroidManifest.xml:51:13
+	android:name
+		ADDED from AndroidManifest.xml:50:13
+activity#com.example.jntuhr13syllabusbook.Engineering
+ADDED from AndroidManifest.xml:53:9
+	android:label
+		ADDED from AndroidManifest.xml:55:13
+	android:name
+		ADDED from AndroidManifest.xml:54:13
+activity#com.example.jntuhr13syllabusbook.Engineering_Physics
+ADDED from AndroidManifest.xml:57:9
+	android:label
+		ADDED from AndroidManifest.xml:59:13
+	android:name
+		ADDED from AndroidManifest.xml:58:13
+activity#com.example.jntuhr13syllabusbook.Engineering_Chemistry
+ADDED from AndroidManifest.xml:61:9
+	android:label
+		ADDED from AndroidManifest.xml:63:13
+	android:name
+		ADDED from AndroidManifest.xml:62:13
+activity#com.example.jntuhr13syllabusbook.Computer_programming
+ADDED from AndroidManifest.xml:65:9
+	android:label
+		ADDED from AndroidManifest.xml:67:13
+	android:name
+		ADDED from AndroidManifest.xml:66:13
+activity#com.example.jntuhr13syllabusbook.Engineering_drawing
+ADDED from AndroidManifest.xml:69:9
+	android:label
+		ADDED from AndroidManifest.xml:71:13
+	android:name
+		ADDED from AndroidManifest.xml:70:13
+activity#com.example.jntuhr13syllabusbook.Computer_programming_lab
+ADDED from AndroidManifest.xml:73:9
+	android:label
+		ADDED from AndroidManifest.xml:75:13
+	android:name
+		ADDED from AndroidManifest.xml:74:13
+activity#com.example.jntuhr13syllabusbook.Physics_and
+ADDED from AndroidManifest.xml:77:9
+	android:label
+		ADDED from AndroidManifest.xml:79:13
+	android:name
+		ADDED from AndroidManifest.xml:78:13
+activity#com.example.jntuhr13syllabusbook.Physics_chemistry_lab
+ADDED from AndroidManifest.xml:81:9
+	android:label
+		ADDED from AndroidManifest.xml:83:13
+	android:name
+		ADDED from AndroidManifest.xml:82:13
+activity#com.example.jntuhr13syllabusbook.ELCS_lab
+ADDED from AndroidManifest.xml:85:9
+	android:label
+		ADDED from AndroidManifest.xml:87:13
+	android:name
+		ADDED from AndroidManifest.xml:86:13
+activity#com.example.jntuhr13syllabusbook.Workshop_it_lab
+ADDED from AndroidManifest.xml:89:9
+	android:label
+		ADDED from AndroidManifest.xml:91:13
+	android:name
+		ADDED from AndroidManifest.xml:90:13
+activity#com.example.jntuhr13syllabusbook.Branches_1st_year
+ADDED from AndroidManifest.xml:93:9
+	android:label
+		ADDED from AndroidManifest.xml:95:13
+	android:name
+		ADDED from AndroidManifest.xml:94:13
+activity#com.example.jntuhr13syllabusbook.About
+ADDED from AndroidManifest.xml:97:9
+	android:label
+		ADDED from AndroidManifest.xml:99:13
+	android:name
+		ADDED from AndroidManifest.xml:98:13
+activity#com.example.jntuhr13syllabusbook.Branches_2_1
+ADDED from AndroidManifest.xml:101:9
+	android:label
+		ADDED from AndroidManifest.xml:103:13
+	android:name
+		ADDED from AndroidManifest.xml:102:13
+activity#com.example.jntuhr13syllabusbook.Branches_2_2
+ADDED from AndroidManifest.xml:105:9
+	android:label
+		ADDED from AndroidManifest.xml:107:13
+	android:name
+		ADDED from AndroidManifest.xml:106:13
+activity#com.example.jntuhr13syllabusbook.Mathematics_3
+ADDED from AndroidManifest.xml:109:9
+	android:label
+		ADDED from AndroidManifest.xml:111:13
+	android:name
+		ADDED from AndroidManifest.xml:110:13
+activity#com.example.jntuhr13syllabusbook.Probability_shotastic_process
+ADDED from AndroidManifest.xml:113:9
+	android:label
+		ADDED from AndroidManifest.xml:115:13
+	android:name
+		ADDED from AndroidManifest.xml:114:13
+activity#com.example.jntuhr13syllabusbook.Environmental_science
+ADDED from AndroidManifest.xml:117:9
+	android:label
+		ADDED from AndroidManifest.xml:119:13
+	android:name
+		ADDED from AndroidManifest.xml:118:13
+activity#com.example.jntuhr13syllabusbook.Electric_circuits
+ADDED from AndroidManifest.xml:121:9
+	android:label
+		ADDED from AndroidManifest.xml:123:13
+	android:name
+		ADDED from AndroidManifest.xml:122:13
+activity#com.example.jntuhr13syllabusbook.Signals_and_systems
+ADDED from AndroidManifest.xml:125:9
+	android:label
+		ADDED from AndroidManifest.xml:127:13
+	android:name
+		ADDED from AndroidManifest.xml:126:13
+activity#com.example.jntuhr13syllabusbook.EDC
+ADDED from AndroidManifest.xml:129:9
+	android:label
+		ADDED from AndroidManifest.xml:131:13
+	android:name
+		ADDED from AndroidManifest.xml:130:13
+activity#com.example.jntuhr13syllabusbook.BS_lab
+ADDED from AndroidManifest.xml:133:9
+	android:label
+		ADDED from AndroidManifest.xml:135:13
+	android:name
+		ADDED from AndroidManifest.xml:134:13
+activity#com.example.jntuhr13syllabusbook.EDC_lab
+ADDED from AndroidManifest.xml:137:9
+	android:label
+		ADDED from AndroidManifest.xml:139:13
+	android:name
+		ADDED from AndroidManifest.xml:138:13
+activity#com.example.jntuhr13syllabusbook.Cse_2_1
+ADDED from AndroidManifest.xml:141:9
+	android:label
+		ADDED from AndroidManifest.xml:143:13
+	android:name
+		ADDED from AndroidManifest.xml:142:13
+activity#com.example.jntuhr13syllabusbook.Probability_statistics
+ADDED from AndroidManifest.xml:145:9
+	android:label
+		ADDED from AndroidManifest.xml:147:13
+	android:name
+		ADDED from AndroidManifest.xml:146:13
+activity#com.example.jntuhr13syllabusbook.Probability_and_statistics
+ADDED from AndroidManifest.xml:149:9
+	android:label
+		ADDED from AndroidManifest.xml:151:13
+	android:name
+		ADDED from AndroidManifest.xml:150:13
+activity#com.example.jntuhr13syllabusbook.MFCS
+ADDED from AndroidManifest.xml:153:9
+	android:label
+		ADDED from AndroidManifest.xml:155:13
+	android:name
+		ADDED from AndroidManifest.xml:154:13
+activity#com.example.jntuhr13syllabusbook.Data_structures
+ADDED from AndroidManifest.xml:157:9
+	android:label
+		ADDED from AndroidManifest.xml:159:13
+	android:name
+		ADDED from AndroidManifest.xml:158:13
+activity#com.example.jntuhr13syllabusbook.DLD
+ADDED from AndroidManifest.xml:161:9
+	android:label
+		ADDED from AndroidManifest.xml:163:13
+	android:name
+		ADDED from AndroidManifest.xml:162:13
+activity#com.example.jntuhr13syllabusbook.BEE
+ADDED from AndroidManifest.xml:165:9
+	android:label
+		ADDED from AndroidManifest.xml:167:13
+	android:name
+		ADDED from AndroidManifest.xml:166:13
+activity#com.example.jntuhr13syllabusbook.Data_structures_lab
+ADDED from AndroidManifest.xml:169:9
+	android:label
+		ADDED from AndroidManifest.xml:171:13
+	android:name
+		ADDED from AndroidManifest.xml:170:13
+activity#com.example.jntuhr13syllabusbook.CSE_2_2
+ADDED from AndroidManifest.xml:173:9
+	android:label
+		ADDED from AndroidManifest.xml:175:13
+	android:name
+		ADDED from AndroidManifest.xml:174:13
+activity#com.example.jntuhr13syllabusbook.Dept_cse_2_1
+ADDED from AndroidManifest.xml:177:9
+	android:label
+		ADDED from AndroidManifest.xml:179:13
+	android:name
+		ADDED from AndroidManifest.xml:178:13
+activity#com.example.jntuhr13syllabusbook.Dept_ece_2_1
+ADDED from AndroidManifest.xml:181:9
+	android:label
+		ADDED from AndroidManifest.xml:183:13
+	android:name
+		ADDED from AndroidManifest.xml:182:13
+activity#com.example.jntuhr13syllabusbook.Under_construction
+ADDED from AndroidManifest.xml:185:9
+	android:label
+		ADDED from AndroidManifest.xml:187:13
+	android:name
+		ADDED from AndroidManifest.xml:186:13
+activity#com.example.jntuhr13syllabusbook.English2
+ADDED from AndroidManifest.xml:189:9
+	android:label
+		ADDED from AndroidManifest.xml:191:13
+	android:name
+		ADDED from AndroidManifest.xml:190:13
+activity#com.example.jntuhr13syllabusbook.English3
+ADDED from AndroidManifest.xml:193:9
+	android:label
+		ADDED from AndroidManifest.xml:195:13
+	android:name
+		ADDED from AndroidManifest.xml:194:13
+activity#com.example.jntuhr13syllabusbook.Branches2_1
+ADDED from AndroidManifest.xml:197:9
+	android:label
+		ADDED from AndroidManifest.xml:199:13
+	android:name
+		ADDED from AndroidManifest.xml:198:13
+activity#com.example.jntuhr13syllabusbook.Stld
+ADDED from AndroidManifest.xml:201:9
+	android:label
+		ADDED from AndroidManifest.xml:203:13
+	android:name
+		ADDED from AndroidManifest.xml:202:13
+activity#com.example.jntuhr13syllabusbook.Contact_US
+ADDED from AndroidManifest.xml:205:9
+	android:label
+		ADDED from AndroidManifest.xml:207:13
+	android:name
+		ADDED from AndroidManifest.xml:206:13

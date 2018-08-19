@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jntuhr13syllabusbook"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
+
+    <android:uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Years"
+            android:label="@string/title_activity_years" >
+        </activity>
+        <activity
+            android:name=".Year1_subjects"
+            android:label="@string/title_activity_year1_subjects" >
+        </activity>
+        <activity
+            android:name=".Mathematics_1"
+            android:label="@string/title_activity_mathematics_1" >
+        </activity>
+        <activity
+            android:name=".English"
+            android:label="@string/title_activity_english" >
+        </activity>
+        <activity
+            android:name=".Mathematics_Methods"
+            android:label="@string/title_activity_mathematics__methods" >
+        </activity>
+        <activity
+            android:name=".Engineering"
+            android:label="@string/title_activity_engineering" >
+        </activity>
+        <activity
+            android:name=".Engineering_Physics"
+            android:label="@string/title_activity_engineering__physics" >
+        </activity>
+        <activity
+            android:name=".Engineering_Chemistry"
+            android:label="@string/title_activity_engineering__chemistry" >
+        </activity>
+        <activity
+            android:name=".Computer_programming"
+            android:label="@string/title_activity_computer_programming" >
+        </activity>
+        <activity
+            android:name=".Engineering_drawing"
+            android:label="@string/title_activity_engineering_drawing" >
+        </activity>
+        <activity
+            android:name=".Computer_programming_lab"
+            android:label="@string/title_activity_computer_programming_lab" >
+        </activity>
+
+        <activity
+            android:name=".Physics_chemistry_lab"
+            android:label="@string/title_activity_physics_chemistry_lab" >
+        </activity>
+        <activity
+            android:name=".ELCS_lab"
+            android:label="@string/title_activity_elcs_lab" >
+        </activity>
+        <activity
+            android:name=".Workshop_it_lab"
+            android:label="@string/title_activity_workshop_it_lab" >
+        </activity>
+        <activity
+            android:name=".Branches_1st_year"
+            android:label="@string/title_activity_branches_1st_year" >
+        </activity>
+        <activity
+            android:name=".About"
+            android:label="@string/title_activity_about" >
+        </activity>
+        <activity
+            android:name=".Branches_2_1"
+            android:label="@string/title_activity_branches_2_1" >
+        </activity>
+        <activity
+            android:name=".Branches_2_2"
+            android:label="@string/title_activity_branches_2_2" >
+        </activity>
+        <activity
+            android:name=".Mathematics_3"
+            android:label="@string/title_activity_mathematics_3" >
+        </activity>
+        <activity
+            android:name=".Probability_shotastic_process"
+            android:label="@string/title_activity_probability_shotastic_process" >
+        </activity>
+        <activity
+            android:name=".Environmental_science"
+            android:label="@string/title_activity_environmental_science" >
+        </activity>
+        <activity
+            android:name=".Electric_circuits"
+            android:label="@string/title_activity_electric_circuits" >
+        </activity>
+        <activity
+            android:name=".Signals_and_systems"
+            android:label="@string/title_activity_signals_and_systems" >
+        </activity>
+        <activity
+            android:name=".EDC"
+            android:label="@string/title_activity_edc" >
+        </activity>
+        <activity
+            android:name=".BS_lab"
+            android:label="@string/title_activity_bs_lab" >
+        </activity>
+        <activity
+            android:name=".EDC_lab"
+            android:label="@string/title_activity_edc_lab" >
+        </activity>
+        <activity
+            android:name=".Cse_2_1"
+            android:label="@string/title_activity_cse_2_1" >
+        </activity>
+        <activity
+            android:name=".Probability_statistics"
+            android:label="@string/title_activity_probability_statistics" >
+        </activity>
+        <activity
+            android:name=".Probability_and_statistics"
+            android:label="@string/title_activity_probability_and_statistics" >
+        </activity>
+        <activity
+            android:name=".MFCS"
+            android:label="@string/title_activity_mfcs" >
+        </activity>
+        <activity
+            android:name=".Data_structures"
+            android:label="@string/title_activity_data_structures" >
+        </activity>
+        <activity
+            android:name=".DLD"
+            android:label="@string/title_activity_dld" >
+        </activity>
+        <activity
+            android:name=".BEE"
+            android:label="@string/title_activity_bee" >
+        </activity>
+        <activity
+            android:name=".Data_structures_lab"
+            android:label="@string/title_activity_data_structures_lab" >
+        </activity>
+        <activity
+            android:name=".CSE_2_2"
+            android:label="@string/title_activity_cse_2_2" >
+        </activity>
+        <activity
+            android:name=".Dept_cse_2_1"
+            android:label="@string/title_activity_dept_cse_2_1" >
+        </activity>
+        <activity
+            android:name=".Dept_ece_2_1"
+            android:label="@string/title_activity_dept_ece_2_1" >
+        </activity>
+        <activity
+            android:name=".Under_construction"
+            android:label="@string/title_activity_under_construction" >
+        </activity>
+        <activity
+            android:name=".Branches2_1"
+            android:label="@string/title_activity_branches2_1" >
+        </activity>
+        <activity
+            android:name=".Stld"
+            android:label="@string/title_activity_stld" >
+        </activity>
+        <activity
+            android:name=".Contact_US"
+            android:label="@string/activity_contact__us" >
+        </activity>
+    </application>
+
+</manifest>

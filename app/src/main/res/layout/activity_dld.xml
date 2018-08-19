@@ -1,0 +1,73 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".DLD" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="Objectives:
+                  To understand basic number systems codes and logical gates. 
+                  To understand the Boolean algebra and minimization logic. 
+                  To understand the design of combinational sequential circuits. 
+                  To understand the basic s of various memory. 
+                 
+                 UNIT-I 
+                 Digital Systems: Binary Numbers, Octal, Hexa Decimal and other base numbers, Number base conversions, complements, signed binary numbers, Floating point number representation, binary codes, error detecting and correcting codes, digital logic gates(AND, NAND,OR,NOR, Ex-OR, Ex-NOR), Boolean algebra , basic theorems and properties, Boolean functions, canonical and standard forms. 
+                 
+                 UNIT-II 
+                 Gate –Level Minimization and combination circuits , The K-Maps Methods, Three Variable, Four Variable, Five Variable , sum of products , product of sums Simplification, Don’t care conditions , NAND and NOR implementation and other two level implantation. 
+                 
+                 UNIT-III
+                 Combinational Circuits (CC): Design Procedure, Combinational circuit for different code converters and other problems, Binary Adder, subtractor, Multiplier, Magnitude Comparator, Decoders, Encoders, Multiplexers, De- multiplexers. "
+                 
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+            
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="UNIT-IV 
+                Synchronous Sequential Circuits: Latches, Flip-flops, analysis of clocked sequential circuits, design of counters, Up-down counters, Ripple counters , Registers, Shift registers, Synchronous Counters. Asynchronous Sequential Circuits: Reduction of state and follow tables, Role free Conditions. 
+                
+                UNIT-V:
+                 Memory: Random Access memory, types of ROM, Memory decoding, address and data bus, Sequential Memory, Cache Memory, Programmable Logic Arrays, memory Hierarchy in terms of capacity and access time. 
+                 
+                 TEXT BOOKS: 
+                 1) Digital Design- M. Morris Mano. 
+                 
+                 REFERENCE BOOKS:
+                  1) 1. Switching and Finite Automata Theory by Zvi. Kohavi, Tata McGraw Hill. 
+                  2) 2. Switching and Logic Design, C.V.S. Rao, Pearson Education. 
+                  3) 3. Digital Principles and Design – Donald D.Givone, Tata McGraw Hill, Edition. 
+                  4) 4. Fundamentals of Digital Logic and Micro Computer Design , 5TH Edition, M. Rafiquzzaman John Wiley. Outcomes: After this course student could able to design, understand the number systems, combinational sequential circuits. And they should be in a position to continue with computer organization.
+                "
+                 
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Android\JntuHR13SyllabusBook\app\src\main\res"><file name="bg" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\drawable-hdpi\bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="bg2" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\drawable-hdpi\bg2.png" qualifiers="hdpi-v4" type="drawable"/><file name="english1" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\drawable-hdpi\english1.png" qualifiers="hdpi-v4" type="drawable"/><file name="english2" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\drawable-hdpi\english2.png" qualifiers="hdpi-v4" type="drawable"/><file name="english3" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\drawable-hdpi\english3.png" qualifiers="hdpi-v4" type="drawable"/><file name="faded_ic" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\drawable-hdpi\faded_ic.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="under_construction" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\drawable-hdpi\under_construction.gif" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_about" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_about.xml" qualifiers="" type="layout"/><file name="activity_bee" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_bee.xml" qualifiers="" type="layout"/><file name="activity_branches2_1" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_branches2_1.xml" qualifiers="" type="layout"/><file name="activity_branches_1st_year" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_branches_1st_year.xml" qualifiers="" type="layout"/><file name="activity_branches_2_1" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_branches_2_1.xml" qualifiers="" type="layout"/><file name="activity_branches_2_2" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_branches_2_2.xml" qualifiers="" type="layout"/><file name="activity_bs_lab" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_bs_lab.xml" qualifiers="" type="layout"/><file name="activity_computer_programming" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_computer_programming.xml" qualifiers="" type="layout"/><file name="activity_computer_programming_lab" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_computer_programming_lab.xml" qualifiers="" type="layout"/><file name="activity_cse_2_1" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_cse_2_1.xml" qualifiers="" type="layout"/><file name="activity_cse_2_2" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_cse_2_2.xml" qualifiers="" type="layout"/><file name="activity_data_structures" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_data_structures.xml" qualifiers="" type="layout"/><file name="activity_data_structures_lab" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_data_structures_lab.xml" qualifiers="" type="layout"/><file name="activity_dept_cse_2_1" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_dept_cse_2_1.xml" qualifiers="" type="layout"/><file name="activity_dept_ece_2_1" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_dept_ece_2_1.xml" qualifiers="" type="layout"/><file name="activity_dld" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_dld.xml" qualifiers="" type="layout"/><file name="activity_edc" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_edc.xml" qualifiers="" type="layout"/><file name="activity_edc_lab" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_edc_lab.xml" qualifiers="" type="layout"/><file name="activity_elcs_lab" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_elcs_lab.xml" qualifiers="" type="layout"/><file name="activity_electric_circuits" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_electric_circuits.xml" qualifiers="" type="layout"/><file name="activity_engineering_drawing" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_engineering_drawing.xml" qualifiers="" type="layout"/><file name="activity_engineering__chemistry" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_engineering__chemistry.xml" qualifiers="" type="layout"/><file name="activity_engineering__physics" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_engineering__physics.xml" qualifiers="" type="layout"/><file name="activity_english" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_english.xml" qualifiers="" type="layout"/><file name="activity_environmental_science" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_environmental_science.xml" qualifiers="" type="layout"/><file name="activity_main" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_mathematics_1" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_mathematics_1.xml" qualifiers="" type="layout"/><file name="activity_mathematics_3" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_mathematics_3.xml" qualifiers="" type="layout"/><file name="activity_mathematics__methods" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_mathematics__methods.xml" qualifiers="" type="layout"/><file name="activity_mfcs" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_mfcs.xml" qualifiers="" type="layout"/><file name="activity_physics_chemistry_lab" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_physics_chemistry_lab.xml" qualifiers="" type="layout"/><file name="activity_probability_and_statistics" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_probability_and_statistics.xml" qualifiers="" type="layout"/><file name="activity_probability_shotastic_process" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_probability_shotastic_process.xml" qualifiers="" type="layout"/><file name="activity_probability_statistics" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_probability_statistics.xml" qualifiers="" type="layout"/><file name="activity_signals_and_systems" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_signals_and_systems.xml" qualifiers="" type="layout"/><file name="activity_stld" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_stld.xml" qualifiers="" type="layout"/><file name="activity_under_construction" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_under_construction.xml" qualifiers="" type="layout"/><file name="activity_workshop_it_lab" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_workshop_it_lab.xml" qualifiers="" type="layout"/><file name="activity_year1_subjects" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_year1_subjects.xml" qualifiers="" type="layout"/><file name="activity_years" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_years.xml" qualifiers="" type="layout"/><file name="about" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\about.xml" qualifiers="" type="menu"/><file name="bee" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\bee.xml" qualifiers="" type="menu"/><file name="branches2_1" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\branches2_1.xml" qualifiers="" type="menu"/><file name="branches_1st_year" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\branches_1st_year.xml" qualifiers="" type="menu"/><file name="branches_2_1" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\branches_2_1.xml" qualifiers="" type="menu"/><file name="branches_2_2" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\branches_2_2.xml" qualifiers="" type="menu"/><file name="bs_lab" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\bs_lab.xml" qualifiers="" type="menu"/><file name="computer_programming" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\computer_programming.xml" qualifiers="" type="menu"/><file name="computer_programming_lab" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\computer_programming_lab.xml" qualifiers="" type="menu"/><file name="cse_2_1" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\cse_2_1.xml" qualifiers="" type="menu"/><file name="cse_2_2" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\cse_2_2.xml" qualifiers="" type="menu"/><file name="data_structures" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\data_structures.xml" qualifiers="" type="menu"/><file name="data_structures_lab" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\data_structures_lab.xml" qualifiers="" type="menu"/><file name="dept_cse_2_1" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\dept_cse_2_1.xml" qualifiers="" type="menu"/><file name="dept_ece_2_1" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\dept_ece_2_1.xml" qualifiers="" type="menu"/><file name="dld" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\dld.xml" qualifiers="" type="menu"/><file name="edc" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\edc.xml" qualifiers="" type="menu"/><file name="edc_lab" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\edc_lab.xml" qualifiers="" type="menu"/><file name="elcs_lab" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\elcs_lab.xml" qualifiers="" type="menu"/><file name="electric_circuits" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\electric_circuits.xml" qualifiers="" type="menu"/><file name="engineering" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\engineering.xml" qualifiers="" type="menu"/><file name="engineering_drawing" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\engineering_drawing.xml" qualifiers="" type="menu"/><file name="engineering__chemistry" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\engineering__chemistry.xml" qualifiers="" type="menu"/><file name="engineering__physics" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\engineering__physics.xml" qualifiers="" type="menu"/><file name="english" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\english.xml" qualifiers="" type="menu"/><file name="english2" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\english2.xml" qualifiers="" type="menu"/><file name="english3" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\english3.xml" qualifiers="" type="menu"/><file name="environmental_science" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\environmental_science.xml" qualifiers="" type="menu"/><file name="help" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\help.xml" qualifiers="" type="menu"/><file name="main" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file name="mathematics_1" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\mathematics_1.xml" qualifiers="" type="menu"/><file name="mathematics_3" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\mathematics_3.xml" qualifiers="" type="menu"/><file name="mathematics__methods" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\mathematics__methods.xml" qualifiers="" type="menu"/><file name="mfc" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\mfc.xml" qualifiers="" type="menu"/><file name="physics_and" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\physics_and.xml" qualifiers="" type="menu"/><file name="physics_chemistry_lab" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\physics_chemistry_lab.xml" qualifiers="" type="menu"/><file name="probability_and_statistics" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\probability_and_statistics.xml" qualifiers="" type="menu"/><file name="probability_shotastic_process" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\probability_shotastic_process.xml" qualifiers="" type="menu"/><file name="probability_statistics" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\probability_statistics.xml" qualifiers="" type="menu"/><file name="signals_and_systems" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\signals_and_systems.xml" qualifiers="" type="menu"/><file name="stld" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\stld.xml" qualifiers="" type="menu"/><file name="under_construction" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\under_construction.xml" qualifiers="" type="menu"/><file name="workshop_it_lab" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\workshop_it_lab.xml" qualifiers="" type="menu"/><file name="year1_subjects" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\year1_subjects.xml" qualifiers="" type="menu"/><file name="years" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\years.xml" qualifiers="" type="menu"/><file path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\values\strings.xml" qualifiers=""><string name="year4_2">4-2</string><string name="title_activity_cse_2_2">CSE_2_2</string><string name="Contact_us">                   CONTACT US</string><string name="year2_2">2-2</string><string name="year4_1">4-1</string><string name="year2_1">2-1</string><string name="title_activity_dept_ece_2_1">Dept_ece_2_1</string><string name="engineering_chem">ENGINEERING CHEMISTRY</string><string name="ed_text">UNIT – I
+INTRODUCTION TO ENGINEERING DRAWING: Principles of Engineering Drawing/Graphics – Various Drawing
+Instruments – Conventions in Drawing – Lettering practice – BIS Conventions.
+Curves: Constructions of Curves used in Engineering Practice:
+a) Conic Sections including the Rectangular Hyperbola – General method only.
+b) Cycloid, Epicycloid and Hypocycloid
+c) Involute.
+Scales: Construction of different types of Scales, Plain, Diagonal, Vernier scale.
+UNIT – II
+ORTHOGRAPHIC PROJECTIONS IN FIRST ANGLE
+PROJECTION: Principles of Orthographic Projections – Conventions – First and Third Angle projections.
+Projections of Points. including Points in all four quadrants.
+Projections of Lines - Parallel, perpendicular, inclined to one plan and inclined to both planes. True length and true
+angle of a line. Traces of a line.
+PROJECTIONS OF PLANES: Plane parallel, perpendicular and inclined to one reference plane. Plane inclined to
+both the reference planes.
+UNIT – III
+PROJECTIONS OF SOLIDS: Projections of regular solids, cube, prisms, pyramids, tetrahedran, cylinder and cone,
+axis inclined to both planes.
+SECTIONS AND SECTIONAL VIEWS: Right Regular Solids – Prism, Cylinder, Pyramid, Cone – use of Auxiliary
+views.
+UNIT – IV
+DEVELOPMENT OF SURFACES: Development of Surfaces of Right, Regular Solids – Prisms, Cylinder, Pyramids,
+Cone and their parts. frustum of solids.
+INTERSECTION OF SOLIDS:- Intersection of Cylinder Vs Cylinder, Cylinder Vs Prism, Cylinder Vs Cone.
+UNIT – V
+ISOMETRIC PROJECTIONS : Principles of Isometric Projection – Isometric Scale – Isometric Views– Conventions –
+Plane Figures, Simple and Compound Solids – Isometric Projection of objects having non- isometric lines. Isometric
+Projection of parts with Spherical surface.
+TRANSFORMATION OF PROJECTIONS : Conversion of Isometric Views to Orthographic Views. Conversion of
+orthographic views to isometric views – simple objects.
+PERSPECTIVE PROJECTIONS : Perspective View : Points, Lines and Plane Figures, Vanishing Point Methods
+(General Method only).
+TEXT BOOKS
+1.Engineering Drawing – Basant, Agrawal, TMH
+2. Engineering Drawing, N.D. Bhatt
+REFERENCES :
+1. Engineering Graphics. P I Varghese Tata McGraw Hill Education Pvt. Ltd.
+2. Engineering drawing – P.J. Shah .S.Chand Publishers.
+3. Engineering Drawing- Johle/Tata Macgraw Hill Book Publishers.
+4. Engineering Drawing – M.B. Shah and B.C. Rana, Pearson.
+5 .Engineering Drawing by K.Venu Gopal and V.Prabu Raja New Age Publications.
+6. Engineering Drawing By John. PHI Learning Publisher.</string><string name="mathematics_i">MATHEMATICS-I</string><string name="engphy">            ENGINEERING PHYSICS</string><string name="engchem">           ENGINEERING CHEMISTRY</string><string name="title_activity_dept_cse_2_1">Dept_cse_2_1</string><string name="r13_syllabus">R13 SYLLABUS</string><string name="title_activity_mathematics_1">Mathematics_1</string><string name="title_activity_edc">EDC</string><string name="title_activity_mathematics_3">Mathematics_3</string><string name="title_activity_cse_2_1">Cse_2_1</string><string name="cp">            COMPUTER PROGRAMMING</string><string name="eng_phy_chem_lab">ENGINEERING PHYSICS AND ENGINEERING CHEMISTRY</string><string name="title_activity_environmental_science">Environmental_science</string><string name="title_activity_year1_subjects">Year1_subjects</string><string name="ece">ECE</string><string name="cp_lab">COMPUTER PROGRAMMING LAB</string><string name="maths_1">
+UNIT-I
+Theory of Matrices: Real matrices – Symmetric, skew – symmetric, orthogonal. Complex matrices: Hermitian, Skew-
+Hermitian and Unitary Matrices. Idempotent matrix,
+Elementary row and column transformations- Elementary matrix, Finding rank of a matrix by reducing to Echelon and
+normal forms. Finding the inverse of a non-singular square matrix using row/ column transformations (Gauss- Jordan
+method). Consistency of system of linear equations (homogeneous and non- homogeneous) using the rank of a
+matrix. Solving m x n and n x n linear system of equations by Gauss elimination.
+Cayley-Hamilton Theorem (without proof) – Verification. Finding inverse of a matrix and powers of a matrix by
+Cayley-Hamilton theorem, Linear dependence and Independence of Vectors. Linear Transformation – Orthogonal
+Transformation. Eigen values and eigen vectors of a matrix. Properties of eigen values and eigen vectors of real and
+complex matrices. Finding linearly independent eigen vectors of a matrix when the eigen values of the matrix are
+repeated.
+Diagonalization of matrix – Quadratic forms up to three variables. Rank – Positive definite, negative definite, semi
+definite, index, signature of quadratic forms. Reduction of a quadratic form to canonical form.
+
+UNIT – II
+Differential calculus methods. Rolle’s Mean value Theorem – Lagrange’s Mean Value Theorem – Cauchy’s mean
+value Theorem – (all theorems without proof but with geometrical interpretations), verification of the Theorems and
+testing the applicability of these theorem to the given function.
+Functions of several variables: Functional dependence- Jacobian- Maxima and Minima of functions of two variables
+without constraints and with constraints-Method of Lagrange multipliers.
+
+UNIT – III
+Improper integration, Multiple integration and applications: Gamma and Beta Functions –Relation between them,
+their properties – evaluation of improper integrals using Gamma / Beta functions
+Multiple integrals – double and triple integrals – change of order of integration- change of variables (polar, cylindrical
+and spherical) Finding the area of a region using double integration and volume of a region using triple integration.
+
+UNIT – IV
+Differential equations and applications Overview of differential equations- exact, linear and Bernoulli (NOT TO BE
+EXAMINED). Applications of first order differential equations – Newton’s Law of cooling, Law of natural growth and
+decay, orthogonal trajectories.
+Linear differential equations of second and higher order with constant coefficients, Non-homogeneous term of the
+type f(X) = e pow ax, Sin ax, Cos ax, and x pow n, e pow ax V(x), x pow n V(x), method of variation of parameters. Applications to
+bending of beams, Electrical circuits and simple harmonic motion.
+
+UNIT – V
+Laplace transform and its applications to Ordinary differential equations Definition of Integral transform,
+Domain of the function and Kernel for the Laplace transforms. Existence of Laplace transform. Laplace transform of
+standard functions, first shifting Theorem, Laplace transform of functions when they are multiplied or divided by “t”.
+Laplace transforms of derivatives and integrals of functions. – Unit step function – second shifting theorem – Dirac’s
+delta function, Periodic function – Inverse Laplace transform by Partial fractions( Heaviside method) Inverse Laplace
+transforms of functions when they are multiplied or divided by ”s”, Inverse Laplace Transforms of derivatives and
+integrals of functions, Convolution theorem –- Solving ordinary differential equations by Laplace transforms.
+
+TEXT BOOKS:
+1. Advanced engineering Mathematics by Kreyszig, John Wiley and Sons Publishers.
+2. Higher Engineering Mathematics by B.S. Grewal, Khanna Publishers.
+    
+REFERENCES:
+1. Advanced Engineering Mathematics by R.K. Jain and S.R.K. Iyengar, 3rd edition, Narosa Publishing House, Delhi.
+2. Engineering Mathematics – I by T.K. V. Iyengar, B. Krishna Gandhi and Others, S. Chand.
+3. Engineering Mathematics – I by D. S. Chandrasekhar, Prison Books Pvt. Ltd.
+4. Engineering Mathematics – I by G. Shanker Rao and Others I.K. International Publications.
+5. Advanced Engineering Mathematics with MATLAB, Dean G. Duffy, 3rd Edi, CRC Press Taylor and Francis Group.
+6. Mathematics for Engineers and Scientists, Alan Jeffrey, 6ht Edi, 2013, Chapman and Hall/ CRC
+7. Advanced Engineering Mathematics, Michael Greenberg, Second Edition. Pearson Education.</string><string name="title_activity_help">Help</string><string name="English">               ENGLISH</string><string name="title_activity_bs_lab">BS_lab</string><string name="bee">BEE</string><string name="engchem_text">
+UNIT I: Electrochemistry and Corrosion:
+Electro Chemistry – Conductance - Specific, Equivalent and Molar conductance and their Units; Applications of
+Conductance ( Conductometric titrations). EMF: Galvanic Cells, types of Electrodes – ( Calomel, Quinhydrone and
+glass electrodes); Nernst equation and its applications ; concept of concentration cells, electro chemical series,
+Potentiometric titrations, determination of PH using glass electrode-Numerical problems.
+Batteries: Primary cells ( dry cells) and secondary cells (lead-Acid cell, Ni-Cd cell, Lithium cells). Applications of
+batteries. Fuel cells – Hydrogen – Oxygen fuel cell; methanol – oxygen fuel cell ; Advantages and Applications.
+Corrosion and its control: Causes and effects of corrosion; Theories of corrosion – Chemical and Electrochemical
+corrosion; Types of corrosion ( Galvanic, Water line, Pitting and Intergranular); Factors affecting rate of corrosion –
+Nature of metal and Nature of Enviornent – Corrosion control methods – Cathodic protection (sacrificial anodic and
+impressed current). Surface coatings: Metallic coatings and methods of application of metallic coatings - hot dipping
+(galvanization and tinning), Cementation, cladding, electroplating ( copper plating ) Electroless plating ( Ni plating) -
+Organic coatings – Paints - constituents and their functions.
+UNIT II: Engineering Materials:
+Polymers:Types of Polymerization (Chain and Step growth).Plastics: Thermoplastic and Thermo setting resins;
+Compounding and fabrication of plastics (Compression and injection moulding ).Preparation, properties, engineering
+applications of PVC, Teflon and Bakelite.
+Fibers- Charcterstics of fibers – preparation, properties and uses of Nylon – 6,6 and Dacron – Fiber Reinforced
+Plastics (FRP) – applications. Rubbers – Natural rubber and its vulcanization. Elastomers – Buna-s, Butyl rubber and
+Thiokol rubber.
+Conducting polymers: Polyacetylene, Polyaniline, Mechanism of Conduction, doping; applications of Conducting
+polymers. Bio-degradable Polymers- preparation and Applications of Poly vinyl acetate and Poly lactic acid -
+Cement: composition of Portland cement, setting and hardening of cement (reactions), Lubricants: Classification with
+examples- Characterstics of a good lubricant and mechanism of lubrication (thick film , thin film and extreme pressure)
+– properties of lubricants: viscosity , Cloud point, flash and fire points. Refractories: Classification, charactersitcs of
+a good refractory and applications.
+Nanomaterials: Introduction, preparation by sol-gel and chemical vapour deposition methods. Applications of
+nanomaterials.
+UNIT III: Water and its Treatment:
+Hardness of Water: Causes of hardness, expression of hardness – units – types of hardness, estimation of temporary
+and permanent hardness of water by EDTA method - numerical problems. Boiler troubles – Scale and sludges, Priming
+and foaming, caustic enbrittlement and boiler corrosion; Treatment of boiler feed water – Internal treatment (
+Phosphate, Colloidal and calgon conditioning) – External treatment – Lime Soda process, Zeolite process and ion
+exchange process. Numerical Problems. Potable Water- Its Specifications – Steps involved in trtament of potable
+water – Disinfection of water by chlorination and ozonisation. Reverse osmosis and its significance.
+Unit – IV : Fuels and Combustion
+Fuels – Classification – soild fuels : coal – analysis of coal - proximate and ultimate analysis and their significance.
+Liquid fuels – petroleum and its refining – cracking – types – fixed bed catalytic cracking. Knocking – octane and
+cetane rating, synthetic petrol, Bergius and Fischer-Tropsch’s process: Gaseous fuels - constituents, characterstics
+and applications of natural gas, LPG and CNG. Analysis of flue gas by Orsat’s apparatus – Numerical Problems.
+Combustion – Definition, Calorific value of fuel – HCV , LCV; Determination of calorific value by Junker’s gas
+calorimeter – theoretical calculation of Calorific value by Dulong’s formula – Numerical problems on combustion.
+UNIT V: Phase Rule and Surface Chemistry :
+Phase Rule: Definition of terms : Phase, component, degree of freedom, phase rule equation. Phase diagrams –
+one component system- water system. Two component system Lead- Silver, cooling curves, heat treatment based
+on iron-carbon phase diagram - hardening, annealing and normalization.
+Surface Chemistry: Adsorption – Types of Adsorption, Isotherms – Freundlich and Langmuir adsorption isotherm,
+applications of adsorption; Colloids: Classification of Colloids; Electrical and optical properties, micelles, applications
+of colloids in industry.
+TEXT BOOKS:
+1. Engineering Chemistry by R.P. Mani,K.N. Mishra, B. Rama Devi /CENGAGE learning.
+2. Engineering Chemistry by P.C Jain and Monica Jain, Dhanpatrai Publishing Company (2008).
+REFERENCE BOOKS
+1. Engineering Chemistry by B. Siva Shankar Mc.Graw Hill Publishing Company Limited, New Delhi
+(2006)
+2. Engineering Chemistry J.C. Kuriacase and J. Rajaram, Tata McGraw Hills Publishing Company
+Limited, New Delhi (2004).
+3. Text Book of Engineering Chemistry by S.S. Dara and Mukkati S. Chand and Co Publishers, New
+Delhi(2006)
+4. Chemistry of Engineering Materials by CV Agarwal,C.P Murthy, A.Naidu, BS Publications.</string><string name="cp_text">Objectives:
+ To understand the various steps in Program development.
+ To understand the basic concepts in C Programming Language.
+ To learn how to write modular and readable C Programs
+ To learn to write programs (using structured programming approach) in C to solve problems.
+ To introduce the students to basic data structures such as lists, stacks and queues.
+ To make the student understand simple sorting and searching methods.
+Outcomes:
+UNIT - I
+Introduction to Computers – Computer Systems, Computing Environments, Computer Languages, Creating and
+running programs, Program Development.
+Introduction to the C Language – Background, C Programs, Identifiers, Types, Variables, Constants, Input / Output,
+Operators(Arithmetic, relational, logical, bitwise etc.), Expressions, Precedence and Associativity, Expression
+Evaluation, Type conversions, Statements- Selection Statements(making decisions) – if and switch statements,
+Repetition statements ( loops)-while, for, do-while statements, Loop examples, other statements related to looping –
+break, continue, goto, Simple C Program examples.
+UNIT - II
+Functions-Designing Structured Programs, Functions, user defined functions, inter function communication, Standard
+functions, Scope, Storage classes-auto, register, static, extern, scope rules, type qualifiers, recursion- recursive
+functions, Limitations of recursion, example C programs, Preprocessor commands.
+Arrays – Concepts, using arrays in C, inter function communication, array applications, two – dimensional arrays,
+multidimensional arrays, C program examples.
+UNIT - III
+Pointers – Introduction (Basic Concepts), Pointers for inter function communication, pointers to pointers, compatibility,
+Pointer Applications-Arrays and Pointers, Pointer Arithmetic and arrays, Passing an array to a function, memory
+allocation functions, array of pointers, programming applications, pointers to void, pointers to functions.
+Strings – Concepts, C Strings, String Input / Output functions, arrays of strings, string manipulation functions, string /
+data conversion, C program examples.
+UNIT - IV
+Enumerated, Structure ,and Union Types– The Type Definition(typedef), Enumerated types, Structures –Declaration,
+initialization, accessing structures, operations on structures, Complex structures, structures and functions, Passing
+structures through pointers, self referential structures, unions, bit fields, C programming examples, command –line
+arguments,
+Input and Output – Concept of a file, streams, text files and binary files, Differences between text and binary files,
+State of a file, Opening and Closing files, file input / output functions (standard library input / output functions for
+files), file status functions (error handling),Positioning functions, C program examples.
+UNIT – V
+Searching and Sorting – Sorting- selection sort, bubble sort, Searching-linear and binary search methods.
+Lists- Linear list – singly linked list implementation, insertion, deletion and searching operations on linear list, Stacks-
+Push and Pop Operations, Queues- Enqueue and Dequeue operations.
+TEXT BOOKS:
+1. Computer Science: A Structured Programming Approach Using C, B.A.Forouzan and R.F. Gilberg, Third
+Edition, Cengage Learning.
+2. Programming in C. P. Dey and M Ghosh , Oxford University Press.
+REFERENCE BOOKS:
+1. C and Data structures – P. Padmanabham, Third Edition, B.S. Publications.
+2. C for All, S. Thamarai Selvi, R.Murugesan, Anuradha Publications.
+3. Problem Solving and Program Design in C, J.R. Hanly and E.B. Koffman, 7th Edition, Pearson education.
+4. Programming in C, Ajay Mittal, Pearson.
+5. Programming with C, B.Gottfried, 3rd edition, Schaum’s outlines, TMH.
+6. Problem solving with C, M.T.Somasekhara, PHI
+7. Programming with C, R.S.Bickar, Universities Press.
+8. Computer Programming and Data Structures, E.Balagurusamy, 4th edition, TMH.
+9. Programming in C – Stephen G. Kochan, III Edition, Pearson Education.
+10. The C Programming Language, B.W. Kernighan and Dennis M.Ritchie, PHI.
+11. C Programming with problem solving, J.A. Jones and K. Harrow,Dreamtech Press.    </string><string name="english">ENGLISH</string><string name="year1">1</string><string name="computer_program">COMPUTER PROGRAMMING</string><string name="title_activity_mfcs">MFCS</string><string name="mm_text">
+UNIT – I: Interpolation and Curve fitting
+Interpolation: Introduction- Errors in Polynomial Interpolation – Finite differences- Forward Differences- Backward
+differences –Central differences – Symbolic relations and separation of symbols- Difference Equations – Differences
+of a polynomial-Newton’s formulae for interpolation – Central difference interpolation Formulae – Gauss Central
+Difference Formulae –Interpolation with unevenly spaced points-Lagrange’s Interpolation formula. B. Spline
+interpolation – Cubic spline.
+Curve fitting: Fitting a straight line –Second degree curve-exponential curve-power curve by method of least
+squares.
+UNIT – II : Numerical techniques
+Solution of Algebraic and Transcendental Equations and Linear system of equations.
+Introduction – Graphical interpretation of solution of equations .The Bisection Method – The Method of False Position
+– The Iteration Method – Newton-Raphson Method .
+Solving system of non-homogeneous equations by L-U Decomposition method(Crout’s Method)Jacobi’s and Gauss-
+Seidel Iteration method
+Numerical Differentiation, Integration, and Numerical solutions of First order differential equations:
+Numerical differentiation, Numerical integration - Trapezoidal rule, Simpson’s 1/3rd and 3/8 Rule , Generalized
+Quadrature.
+Numerical solution of Ordinary Differential equations: Solution by Taylor’s series method –Picard’s Method of
+successive Approximation- single step methods-Euler’s Method-Euler’s modified method, Runge-Kutta Methods
+,Predictor –corrector methods(Milne’s Method and Adams-Bashforth methods only).
+UNIT – III: Fourier series and Fourier Transforms
+Definition of periodic function. Fourier expansion of periodic functions in a given interval of length 2 Determination
+of Fourier coefficients – Fourier series of even and odd functions – Fourier series in an arbitrary interval – even and
+odd periodic continuation – Half-range Fourier sine and cosine expansions.
+Fourier integral theorem - Fourier sine and cosine integrals. Fourier transforms – Fourier sine and cosine transforms
+– properties – inverse transforms – Finite Fourier transforms.
+UNIT-IV: Partial differential equations
+Introduction and Formation of partial differential equation by elimination of arbitrary constants and arbitrary
+functions, solutions of first order linear (Lagrange) equation and non-linear equations (Charpit’s method), Method of
+separation of variables for second order equations –Applications of Partial differential equations-Two dimensional
+wave equation., Heat equation.
+UNIT – V Vector Calculus
+Vector Calculus: Scalar point function and vector point function, Gradient- Divergence- Curl and their related
+properties, - Laplacian operator, Line integral – work done – Surface integrals -Volume integral. Green’s Theorem,
+Stoke’s theorem and Gauss’s Divergence Theorems (Statement and their Verification). Solenoidal and irrotational
+vectors, Finding Potential function.
+TEXT BOOKS:
+1. Advanced Engineering Mathematics by Kreyszig, John Wiley and Sons.
+2. Higher Engineering Mathematics by Dr. B.S. Grewal, Khanna Publishers.
+REFERENCES:
+1. Mathematical Methods by T.K.V. Iyengar, B.Krishna Gandhi and Others, S. Chand.
+2. Introductory Methods by Numerical Analysis by S.S. Sastry, PHI Learning Pvt. Ltd.
+3. Mathematical Methods by G.Shankar Rao, I.K. International Publications, N.Delhi
+4. Mathematical Methods by V. Ravindranath, Etl, Himalaya Publications.
+5. Advanced Engineering Mathematics with MATLAB, Dean G. Duffy, 3rd Edi, 2013, CRC Press Taylor and Francis
+Group.
+6. Mathematics for Engineers and Scientists, Alan Jeffrey, 6ht Edi, 2013, Chapman and Hall/ CRC
+7. Advanced Engineering Mathematics, Michael Greenberg, Second Edition. Pearson Education.</string><string name="about_text">        In B.Tech life at JNTU, Syllabus Book plays a major role in a students life. It consists all the academic details of their syllabus along with the Textbooks and Reference books for a particular subject. But, carrying the syllabus book wherever we go is not possible.\n \n What if we need our Syllabus on the go?\n \n How if we forget the author or publications of the books when we want to buy at the retailer?\n
+
+         \nIn that situation this project is very helpful for the R13 regulation Students. In this project, just by accessing the app in your smart phone, u can know all your details of the Syllabus related to R13 regulation of JNTU-Hyderabad affiliated Colleges.</string><string name="engineering_phy">ENGINEERING PHYSICS</string><string name="title_activity_probability_and_statistics">Probability_and_statistics</string><string name="year3_1">3-1</string><string name="year3_2">3-2</string><string name="eng_ws_it">ENGINEERING/IT WORKSHOP</string><string name="title_activity_years">Years</string><string name="title_activity_stld">STLD</string><string name="Mathematics_i">               MATHEMATICS-I</string><string name="title_activity_edc_lab">EDC_lab</string><string name="title_activity_branches_1st_year">Branches_1st_year</string><string name="title_activity_signals_and_systems">Signals_and_systems</string><string name="engphy_text">
+"UNIT-I
+1. Crystallography: Ionic Bond, Covalent Bond, Metallic Bond, Hydrogen Bond, Vander-Waal’s Bond, Calculation of
+Cohesive Energy of diatomic molecule- Space Lattice, Unit Cell, Lattice Parameters, Crystal Systems, Bravais
+Lattices, Atomic Radius, Co-ordination Number and Packing Factor of SC, BCC, FCC, Miller Indices, Crystal Planes
+and Directions, Inter Planar Spacing of Orthogonal Crystal Systems, Structure of Diamond and NaCl.
+2.X-ray Diffraction and Defects in Crystals: Bragg’s Law, X-Ray diffraction methods: Laue Method, Powder Method:
+Point Defects: Vacancies, Substitutional, Interstitial, Frenkel and Schottky Defects, line defects (Qualitative) and
+Burger’s Vector.
+UNIT-II
+3. Principles of Quantum Mechanics: Waves and Particles, de Broglie Hypothesis , Matter Waves, Davisson and
+Germer’s Experiment, Heisenberg’s Uncertainty Principle, Schrödinger’s Time Independent Wave Equation - Physical
+Significance of the Wave Function – Infinite square well potential extension to three dimensions
+4. Elements of Statistical Mechanics and Electron theory of Solids: Phase space, Ensembles, Micro Canonical ,
+Canonical and Grand Canonical Ensembles - Maxwell-Boltzmann, Bose-Einstein and Fermi-Dirac Statistics
+(Qualitative Treatment), Concept of Electron Gas, , Density of States, Fermi Energy- Electron in a periodic Potential,
+Bloch Theorem, Kronig-Penny Model (Qualitative Treatment), E-K curve, Origin of Energy Band Formation in Solids,
+Concept of Effective Mass of an Electron, Classification of Materials into Conductors, Semi Conductors and Insulators.
+UNIT-III
+5. Dielectric Properties: Electric Dipole, Dipole Moment, Dielectric Constant, Polarizability, Electric Susceptibility,
+Displacement Vector, Electronic, Ionic and Orientation Polarizations and Calculation of Polarizabilities: Ionic and
+Electronic - Internal Fields in Solids, Clausius - Mossotti Equation, Piezo -electricity and Ferro- electricity.
+6. Magnetic Properties and Superconducting Properties: Permeability, Field Intensity, Magnetic Field Induction,
+Magnetization, Magnetic Susceptibility, Origin of Magnetic Moment, Bohr Magneton, Classification of Dia, Para and
+Ferro Magnetic Materials on the basis of Magnetic Moment, Domain Theory of Ferro Magnetism on the basis of
+Hysteresis Curve, Soft and Hard Magnetic Materials, Properties of Anti-Ferro and Ferri Magnetic Materials and their
+Applications, Superconductivity, Meissner Effect, Effect of Magnetic field, Type-I and Type-II Superconductors,
+Applications of Superconductors
+UNIT-IV
+7.Optics: Interference-Interference in thin films(Reflected light), Newton rings experiment- Fraunhofer diffraction due
+to single slit, N-slits, Diffraction grating experiment , Double refraction-construction and working, Nicol’s Prism
+8. Lasers and Fiber Optics: Characteristics of Lasers, Spontaneous and Stimulated Emission of Radiation, Einstein’s
+Coefficients and Relation between them, Population Inversion, Lasing Action, Ruby Laser, Helium-Neon Laser,
+Semiconductor Diode Laser, Applications of Lasers- Principle of Optical Fiber, Construction of fiber, Acceptance
+Angle and Acceptance Cone, Numerical Aperture, Types of Optical Fibers: Step Index and Graded Index Fibers,
+Attenuation in Optical Fibers, Application of Optical Fiber in communication systems.
+UNIT-V:
+9. Semiconductor Physics: Fermi Level in Intrinsic and Extrinsic Semiconductors, Calculation of carrier
+concentration in Intrinsic and, Extrinsic Semiconductors, Direct and Indirect Band gap semiconductors, Hall Effect-
+Formation of PN Junction, Open Circuit PN Junction, Energy Diagram of PN Diode, Diode Equation, I-V
+Characteristics of PN Junction diode, Solar cell, LED and Photo Diodes. Acoustics of Buildings and Acoustic Quieting:,
+Reverberation and Time of Reverberation, Sabine’s Formula for Reverberation Time, Measurement of Absorption
+Coefficient of a Material, Factors Affecting The Architectural Acoustics and their Remedies
+10. Nanotechnology: Origin of Nanotechnology, Nano Scale, Surface to Volume Ratio, Quantum Confinement,
+Bottom-up Fabrication: Sol-gel, Top-down Fabrication: Chemical Vapour Deposition, Characterization by TEM.
+TEXT BOOKS:
+1. Engineering Physics,K. Malik, A. K. Singh, Tata Mc Graw Hill Book Publishers
+2. Engineering Physics, V. Rajendran, Tata Mc Graw Hill Book Publishers
+REFERENCES:
+1. Fundamentals of Physics, David Halliday, Robert Resnick, Jearl Walker by John Wiley and Sons
+2. Sears and Zemansky's University Physics (10th Edition) by Hugh D. Young Roger A. Freedman, T. R.
+Sandin, A. Lewis FordAddison-Wesley Publishers;
+3. Applied Physics for Engineers – P. Madhusudana Rao (Academic Publishing company, 2013)
+4. Solid State Physics – M. Armugam (Anuradha Publications).
+5. Modern Physics – R. Murugeshan and K. Siva Prasath – S. Chand and Co. (for Statistical
+Mechanics).
+6. A Text Book of Engg Physics – M. N. Avadhanulu and P. G. Khsirsagar– S. Chand and Co. (for
+acoustics).
+7. Modern Physics by K. Vijaya Kumar, S. Chandralingam: S. Chand and Co.Ltd
+8. Nanotechnology – M.Ratner and D. Ratner (Pearson Ed.).
+9. Introduction to Solid State Physics – C. Kittel (Wiley Eastern).
+10. Solid State Physics – A.J. Dekker (Macmillan).
+11. Applied Physics – Mani Naidu Pearson Education"</string><string name="engphy_chem_text">1. Dispersive power of the material of a prism – Spectrometer
+2. Determination of wavelength of a source – Diffraction Grating.
+3. Newton’s Rings - Radius of curvature of plano convex lens.
+4. Melde’s experiment – Transverse and longitudinal modes.
+5. Time constant of an R-C circuit.
+6. L-C-R circuit.
+7. Magnetic field along the axis of current carrying coil – Stewart and Gees method.
+8. Study the characteristics of LED and LASER sources.
+9. Bending losses of fibres and Evaluation of numerical aperture of a given fibre.
+10. Energy gap of a material of p-n junction.
+11. Torsional pendulum.
+12. Wavelength of light –diffraction grating - using laser.
+13. Characteristics of a solar cell
+LABORATORY MANUAL:
+1. Laboratory Manual of Engineering Physics by Dr.Y.Aparna and Dr.K.Venkateswara Rao (V.G.S Publishers)
+OBJECTIVES
+This course on Physics lab is designed with 13 experiments in an academic year. It is common to all branches of
+Engineering in B.Tech Ist year.
+The objective of the course is that the student will have exposure to various experimental skills which is very essential
+for an Engineering student.
+The experiments are selected from various area of Physics like Physical Optics, Lasers, Fiber Optics, Sound,
+Mechanics, Electricity and Magnetism and Basic Electronics.
+Also the student is exposed to various tools like Screw gauge, Vernier Callipers, Physics Balance , Spectrometer and
+Microscope.
+OUTCOME
+The student is expected to learn from this laboratory course the concept of error and its analysis. It also allows the
+student to develop experimental skills to design new experiments in Engineering.
+With the exposure to these experiments the student can compare the theory and correlate with experiment.
+      ENGINEERING CHEMISTRY LAB
+      List of Experiments ( Any 12 of the following) :
+Titrimetry:
+1. Estimation of ferrous iron by dichrometry.
+2. Estimation of hardness of water by EDTA method.
+Mineral analysis:
+3. Determination of percentage of copper in brass.
+4. Estimation of manganese dioxide in pyrolusite.
+Instrumental Methods:
+Colorimetry:
+5. Determination of ferrous iron in cement by colorimetric method
+6. Estimation of copper by colorimetric method.
+Conductometry:
+7. Conductometric titration of strong acid vs strong base.
+8. Conductometric titration of mixture of acids vs strong base.
+Potentiometry:
+9. Titration of strong acd vs strong base by potentiometry.
+10. Titration of weak acid vs strong base by potentiometry.
+Physical properties:
+11.Determination of viscosity of sample oil by redwood / oswald’s viscometer.</string><string name="eng_draw">ENGINEERING DRAWING</string><string name="title_activity_data_structures">Data_structures</string><string name="cse">CSE</string><string name="cplab_text">Objectives:
+ To write programs in C to solve the problems.
+ To implement linear data structures such as lists, stacks, queues.
+ To implement simple searching and sorting methods.
+Outcomes:
+Recommended Systems/Software Requirements:
+ Intel based desktop PC
+ ANSI C Compiler with Supporting Editors
+Week l
+a) Write a C program to find the sum of individual digits of a positive integer.
+b) A Fibonacci sequence is defined as follows: the first and second terms in the sequence are 0 and 1. Subsequent
+terms are found by adding the preceding two terms in the sequence. Write a C program to generate the first n terms
+of the sequence.
+c) Write a C program to generate all the prime numbers between 1 and n, where n is a value supplied by the user.
+Week 2
+a) Write a C program to calculate the following Sum:
+Sum=1-x2/2! +x4/4!-x6/6!+x8/8!-x10/10!
+b) Write a C program to find the roots of a quadratic equation.
+Week 3
+a) The total distance travelled by vehicle in ‘t’ seconds is given by distance = ut+1/2at2 where ‘u’ and ‘a’ are the
+initial velocity (m/sec.) and acceleration (m/sec2). Write C program to find the distance travelled at regular intervals of
+time given the values of ‘u’ and ‘a’. The program should provide the flexibility to the user to select his own time
+intervals and repeat the calculations for different values of ‘u’ and ‘a’.
+b) Write a C program, which takes two integer operands and one operator from the user, performs the operation and
+then prints the result. (Consider the operators +,-,*, /, % and use Switch Statement)
+Week 4
+a) Write C programs that use both recursive and non-recursive functions
+i) To find the factorial of a given integer.
+ii) To find the GCD (greatest common divisor) of two given integers.
+Week 5
+a) Write a C program to find the largest integer in a list of integers.
+b) Write a C program that uses functions to perform the following:
+i) Addition of Two Matrices
+ii) Multiplication of Two Matrices
+Week 6
+a) Write a C program that uses functions to perform the following operations:
+i) To insert a sub-string in to a given main string from a given position.
+ii) To delete n Characters from a given position in a given string.
+b) Write a C program to determine if the given string is a palindrome or not
+Week 7
+a) Write a C program that displays the position or index in the string S where the string T begins, or – 1 if S doesn’t
+contain T.
+b) Write a C program to count the lines, words and characters in a given text.
+Week 8
+a) Write a C program to generate Pascal’s triangle.
+b) Write a C program to construct a pyramid of numbers.
+Week 9
+Write a C program to read in two numbers, x and n, and then compute the sum of this geometric progression:
+1+x+x2+x3+………….+xn
+For example: if n is 3 and x is 5, then the program computes 1+5+25+125.
+Print x, n, the sum
+Perform error checking. For example, the formula does not make sense for negative exponents – if n is less than 0.
+Have your program print an error message if n lessthan 0, then go back and read in the next pair of numbers of without
+computing the sum. Are any values of x also illegal? If so, test for them too.
+Week 10
+a) 2’s complement of a number is obtained by scanning it from right to left and complementing all the bits after the
+first appearance of a 1. Thus 2’s complement of 11100 is 00100. Write a C program to find the 2’s complement of a
+binary number.
+b) Write a C program to convert a Roman numeral to its decimal equivalent.
+Week 11
+Write a C program that uses functions to perform the following operations:
+i) Reading a complex number
+ii) Writing a complex number
+iii) Addition of two complex numbers
+iv) Multiplication of two complex numbers
+(Note: represent complex number using a structure.)
+Week 12
+a) Write a C program which copies one file to another.
+b) Write a C program to reverse the first n characters in a file.
+(Note: The file name and n are specified on the command line.)
+Week 13
+a) Write a C program to display the contents of a file.
+b) Write a C program to merge two files into a third file (i.e., the contents of the first file
+followed by those of the second are put in the third file)
+Week 14
+a) Write a C program that uses non recursive function to search for a Key value in a given list of integers using Linear
+search.
+b) Write a C program that uses non recursive function to search for a Key value in a given sorted list of integers using
+Binary search.
+Week 15
+a) Write a C program that implements the Selection sort method to sort a given array of integers
+in ascending order.
+b) Write a C program that implements the Bubble sort method to sort a given list of names
+in ascending order.
+Week 16
+Write a C program that uses functions to perform the following operations:
+i) Create a singly linked list of integer elements.
+ii) Traverse the above list and display the elements.
+Week 17
+Write a C program that implements stack (its operations) using a singly linked list to display
+a given list of integers in reverse order. Ex. input: 10 23 4 6 output: 6 4 23 10
+Week 18
+Write a C program that implements Queue (its operations) using a singly linked list to display
+a given list of integers in the same order. Ex. input: 10 23 4 6 output: 10 23 4 6
+Week 19
+Write a C program to implement the linear regression algorithm.
+Week 20
+Write a C program to implement the polynomial regression algorithm.
+Week 21
+Write a C program to implement the Lagrange interpolation.
+Week 22
+Write C program to implement the Newton- Gregory forward interpolation.
+Week 23
+Write a C program to implement Trapezoidal method.
+Week 24
+Write a C program to implement Simpson method.
+TEXT BOOKS:
+1. C programming and Data Structures, P. Padmanabham, Third Edition, BS Publications
+2. Computer Programming in C, V. Rajaraman, PHI Publishers.
+3. C Programming, E.Balagurusamy, 3rd edition, TMH Publishers.
+4. C Programming, M.V.S.S.N.Prasad, ACME Learning Pvt. Ltd.
+5. C and Data Structures, N.B.Venkateswarlu and E.V.Prasad,S.Chand Publishers
+6. Mastering C, K.R. Venugopal and S.R. Prasad, TMH Publishers.    </string><string name="title_activity_probability_shotastic_process">Probability_stochastic_process</string><string name="about">ABOUT</string><string name="hello_world">Hello world!</string><string name="title_activity_branches2_1">Branches2_1</string><string name="About">                      ABOUT</string><string name="title_activity_engineering">Engineering</string><string name="title_activity_electric_circuits">Electric_circuits</string><string name="action_settings">Settings</string><string name="app_name">JntuH R13 Syllabus Book</string><string name="mm">          MATHEMATICAL METHODS</string><string name="title_activity_data_structures_lab">Data_structures_lab</string><string name="ed">            ENGINEERING DRAWING</string><string name="title_activity_branches_2_2">Branches_2_2</string><string name="title_activity_probability_statistics">Probability_statistics</string><string name="title_activity_branches_2_1">Branches_2_1</string><string name="mathematical_methods">MATHEMATICAL METHODS</string><string name="contact_text">If u have any suggestions, feedback or if you have found any mistakes in syllabus kindly contact us at @gmail.com
+    \n\n\n\n                                                      Developed By \n\n
+                                                Gnaneswar\n\n
+                                                Maharshi\n\n
+                                                Kiran</string><string name="cplab">       COMPUTER PROGRAMMING LAB</string><string name="engphylab">      ENGINEERING PHYSICS LAB \n
+      (Any TEN experiments compulsory)</string><string name="elcs_lab">ENGLISH LANGUAGE COMMUNICATION SKILLS LAB</string><string name="dld">DLD</string><string name="contact_us">CONTACT US</string><string name="title_activity_under_construction">Under_construction</string><string name="title_activity_about">About</string><string name="english_text">"\n1. INTRODUCTION:
+
+In view of the growing importance of English as a tool for global communication and the consequent emphasis on
+training students to acquire communicative competence, the syllabus has been designed to develop linguistic and
+communicative competencies of Engineering students. The prescribed books and the exercises are meant to serve
+broadly as students handbooks.
+In the English classes, the focus should be on the skills of reading, writing, listening and speaking and for this the
+teachers should use the text prescribed for detailed study. For example, the students should be encouraged to read
+the texts/selected paragraphs silently. The teachers can ask comprehension questions to stimulate discussion and
+based on the discussions students can be made to write short paragraphs/essays etc.
+
+The text for non-detailed study is for extensive reading/reading for pleasure. Hence, it is suggested that they read it
+on their own the topics selected for discussion in the class, The time should be utilized for working out the exercises
+given after each section, as also for supplementing the exercises with authentic materials of a similar kind for
+example, from newspaper articles, advertisements, promotional material etc.. However, the stress in this syllabus is
+on skill development, fostering ideas and practice of language skills.
+
+
+2. OBJECTIVES:
+
+a. To improve the language proficiency of the students in English with emphasis on LSRW skills.
+b. To equip the students to study academic subjects more effectively using the theoretical and practical
+components of the English syllabus.
+c. To develop the study skills and communication skills in formal and informal situations.
+
+
+LEARNING OUTCOMES:
+
+1. Usage of English Language, written and spoken.
+2. Enrichment of comprehension and fluency
+3. Gaining confidence in using language in verbal situations.
+
+
+SYLLABUS:
+
+Listening Skills:
+
+Objectives
+1. To enable students to develop their listening skill so that they may appreciate its role in the LSRW skills
+approach to language and improve their pronunciation
+2. To equip students with necessary training in listening so that they can comprehend the speech of people of
+different backgrounds and regions
+Students should be given practice in listening to the sounds of the language to be able to recognise them, to
+distinguish between them to mark stress and recognise and use the right intonation in sentences.
+- Listening for general content
+- Listening to fill up information
+- Intensive listening
+- Listening for specific information
+Speaking Skills:
+
+Objectives
+1. To make students aware of the role of speaking in English and its contribution to their success.
+2. To enable students to express themselves fluently and appropriately in social and professional contexts.
+~ Oral practice
+~ Describing objects/situations/people
+~ Role play - Individual/Group activities (Using exercises from the five units of the prescribed text: Skills Annexe -
+Functional English for Success)
+~ Just A Minute(.JAM) Sessions.
+
+
+Reading Skills:
+
+Objectives
+1. To develop an awareness in the students about the significance of silent reading and comprehension.
+2. To develop the ability of students to guess the meanings of words from context and grasp the overall
+message of the text, draw inferences etc.
+- Skimming the text
+- Understanding the gist of an argument
+- Identifying the topic sentence
+- Inferring lexical and contextual meaning
+- Understanding discourse features
+- Scanning
+- Recognizing coherence/sequencing of sentences
+NOTE : The students will be trained in reading skills using the prescribed text for detailed study.
+They will be examined in reading and answering questions using 'unseen' passages which may be taken from
+authentic texts, such as magazines/newspaper articles.
+
+
+Writing Skills:
+
+Objectives
+1. To develop an awareness in the students about writing as an exact and formal skill
+2. To equip them with the components of different forms of writing, beginning with the lower order ones.
+- Writing sentences
+- Use of appropriate vocabulary
+- Paragraph writing
+- Coherence and cohesiveness
+- Narration / description
+- Note Making
+- Formal and informal letter writing
+- Describing graphs using expressions of comparison
+
+
+TEXTBOOKS PRESCRIBED:
+
+In order to improve the proficiency of the student in the acquisition of the four skills mentioned above, the
+following texts and course content, divided into Five Units, are prescribed:
+For Detailed study: First Textbook: "Skills Annexe -Functional English for Success", Published by Orient Black Swan, Hyderabad
+ For Non-detailed study: 1. Second text book "Epitome of Wisdom", Published by Maruthi Publications, Guntur
+The course content and study material is divided into Five Units.
+
+
+Unit -I:
+1. Chapter entitled 'Wit and Humour' from 'Skills Annexe' -Functional English for Success, Published by
+Orient Black Swan, Hyderabad
+2. Chapter entitled 'Mokshagundam Visvesvaraya' from "Epitome of Wisdom", Published by Maruthi Publications, Hyderabad.
+        L-Listening For Sounds, Stress and Intonation
+        S-Greeting and Taking Leave, Introducing Oneself and Others (Formal and Informal Situations)
+        R- Reading for Subject/Theme
+        W- Writing Paragraphs
+        G-Types of Nouns and Pronouns
+        V- Homonyms, homophones synonyms, antonyms
+
+ Unit -II:
+1. Chapter entitled 'Cyber Age' from "SkiIls Annexe -Functional English for Success" Published by Orient Black
+Swan, Hyderabad.
+2 Chapter entitled "Three Days To See" from "Epitome of Wisdom", Published by Maruthi Publications, Hyderabad.
+L - Listening for themes and facts
+S - Apologizing, interrupting, requesting and making polite conversation
+R - for theme and gist
+W - Describing people, places, objects, events
+G - Verb forms
+V - noun, verb, adjective and adverb
+
+
+Unit -III:
+1. Chapter entitled 'Risk Management' from "Skills Annexe -Functional English for Success" Published
+by Orient Black Swan, Hyderabad
+2. Chapter entitled 'Leela's Friend' by R.K. Narayan from "Epitome of Wisdom", Published by Maruthi Publications, Hyderabad.
+L – for main points and sub-points for note taking
+S – giving instructions and directions; Speaking of hypothetical situations
+R – reading for details
+W – note-making, information transfer, punctuation
+G – present tense
+V – synonyms and antonyms
+
+ Unit -IV:
+1. Chapter entitled 'Human Values and Professional Ethics' from "Skills Annexe -Functional English for Success" Published by Orient Black Swan, Hyderabad
+2. Chapter entitled 'The Last Leaf' from "Epitome of Wisdom", Published by Maruthi Publications, Hyderabad
+L -Listening for specific details and information
+S- narrating, expressing opinions and telephone interactions
+R -Reading for specific details and information
+W- Writing formal letters and CVs
+G- Past and future tenses
+V- Vocabulary - idioms and Phrasal verbs
+
+
+Unit -V:
+1. Chapter entitled ‘Sports and Health’ from “Skills Annexe -Functional English for Success” Published by
+Orient Black Swan, Hyderabad
+2. Chapter entitled ‘The Convocation Speech’ by N.R. Narayanmurthy’ from “Epitome of Wisdom”, Published
+by Maruthi Publications, Hyderabad
+L- Critical Listening and Listening for speaker’s tone/ attitude
+S- Group discussion and Making presentations
+R- Critical reading, reading for reference
+W-Project proposals; Technical reports, Project Reports and Research Papers
+G- Adjectives, prepositions and concord
+V- Collocations and Technical vocabulary
+Using words appropriately
+* Exercises from the texts not prescribed shall also be used for classroom tasks.
+
+
+REFERENCES :
+1. Contemporary English Grammar Structures and Composition by David Green, MacMillan Publishers, New Delhi.
+2010.
+2. Innovate with English: A Course in English for Engineering Students, edited by T Samson, Foundation Books.
+3. English Grammar Practice, Raj N Bakshi, Orient Longman.
+4. Technical Communication by Daniel Riordan. 2011. Cengage Publications. New Delhi.
+5. Effective English, edited by E Suresh Kumar, A RamaKrishna Rao, P Sreehari, Published by Pearson
+6. Handbook of English Grammar and Usage, Mark Lester and Larry Beason, Tata Mc Graw –Hill.
+7. Spoken English, R.K. Bansal and JB Harrison, Orient Longman.
+8. Technical Communication, Meenakshi Raman, Oxford University Press
+9. Objective English Edgar Thorpe and Showick Thorpe, Pearson Education
+10. Grammar Games, Renuvolcuri Mario, Cambridge University Press.
+11. Murphy’s English Grammar with CD, Murphy, Cambridge University Press.
+12. Everyday Dialogues in English, Robert J. Dixson, Prentice Hall India Pvt Ltd.,
+13. ABC of Common Errors Nigel D Turton, Mac Millan Publishers.
+14. Basic Vocabulary Edgar Thorpe and Showick Thorpe, Pearson Education
+15. Effective Technical Communication, M Ashraf Rizvi, Tata Mc Graw –Hill.
+16. An Interactive Grammar of Modern English, Shivendra K. Verma and Hemlatha Nagarajan , Frank Bros and CO
+17. A Communicative Grammar of English, Geoffrey Leech, Jan Svartvik, Pearson Education
+18. Enrich your English, Thakur K B P Sinha, Vijay Nicole Imprints Pvt Ltd.,
+19. A Grammar Book for You And I, C. Edward Good, MacMillan Publishers"</string></file><file path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file><file name="activity_contact__us" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\layout\activity_contact__us.xml" qualifiers="" type="layout"/><file name="menu_contact__us" path="D:\Android\JntuHR13SyllabusBook\app\src\main\res\menu\menu_contact__us.xml" qualifiers="" type="menu"/></source><source path="D:\Android\JntuHR13SyllabusBook\app\build\generated\res\rs\debug"/><source path="D:\Android\JntuHR13SyllabusBook\app\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="D:\Android\JntuHR13SyllabusBook\app\src\debug\res"/></dataSet><mergedItems/></merger>

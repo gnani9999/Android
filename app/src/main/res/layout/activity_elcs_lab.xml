@@ -1,0 +1,104 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Computer_programming_lab" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="The Language Lab focuses on the production and practice of sounds of language and familiarises the students with the use of English in everyday situations and contexts.   
+
+Objectives
+  To facilitate computer-aided multi-media instruction enabling individualized and independent language learning   
+  To sensitise the students to the nuances of English speech sounds, word accent, intonation and rhythm  
+  To bring about a consistent accent and intelligibility in their pronunciation of  English by providing an opportunity for practice in speaking 
+  To improve the fluency in spoken English and neutralize mother tongue influence 
+  To train students to use language appropriately for interviews, group discussion and public speaking  
+
+Learning Outcomes: 
+1. Better Understanding of nuances of language through audio- visual experience and group activities 
+2. Neutralization of accent for intelligibility 
+3. Speaking with clarity and confidence thereby enhancing employability skills of the students 
+
+Syllabus:
+ English Language Communication Skills Lab shall have two parts:
+  a. Computer Assisted Language Learning (CALL) Lab 
+  b. Interactive Communication Skills (ICS) Lab
+    
+The following course content is prescribed for the English Language Communication Skills Lab 
+  
+Exercise – I 
+ CALL Lab: Introduction to Phonetics – Speech Sounds – Vowels and Consonants      ICS Lab: Ice-Breaking activity and JAM session Articles, Prepositions, Word formation- Prefixes and Suffixes, Synonyms and Antonyms  
+
+Exercise – II 
+CALL Lab: Structure of Syllables - Past Tense Marker and Plural Marker – Weak Forms and Strong Forms - Consonant Clusters.  ICS Lab: Situational Dialogues – Role-Play- Expressions in Various Situations – Self-introduction and Introducing Others – Greetings – Apologies – Requests – Social and Professional Etiquette - Telephone Etiquette. Concord (Subject in agreement with verb) and Words often misspelt- confused/misused  
+
+Exercise - III
+ CALL Lab: Minimal Pairs- Word accent and Stress Shifts- Listening Comprehension.  ICS Lab: Descriptions- Narrations- Giving Directions and guidelines.  Sequence of Tenses, Question Tags and One word substitutes.   
+
+Exercise – IV 
+CALL Lab: Intonation and Common errors in Pronunciation.  ICS Lab: Extempore- Public Speaking  Active and Passive Voice, –Common Errors in English, Idioms and Phrases  
+
+Exercise – V 
+CALL Lab: Neutralization of Mother Tongue Influence and Conversation Practice ICS Lab: Information Transfer- Oral Presentation Skills Reading Comprehension and Job Application with Resume preparation.   
+                " />
+            
+             <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="Minimum Requirement of infra structural facilities for ELCS Lab:
+                 1. Computer Assisted Language Learning (CALL) Lab: 
+                  The Computer aided Language Lab for 40 students with 40 systems, one master console, LAN facility and English language software for self- study by learners.    
+                   
+System Requirement (Hardware component):
+ Computer network with Lan with minimum 60 multimedia systems with the following specifications: i) P – IV Processor a) Speed – 2.8 GHZ b) RAM – 512 MB Minimum c) Hard Disk – 80 GB ii) Headphones of High quality  
+
+2. Interactive Communication Skills (ICS) Lab :  The Interactive Communication Skills Lab: A Spacious room with movable chairs and audio-visual aids with a Public Address System, a T. V., a digital stereo –audio and video system and camcorder etc.  
+
+
+Books Suggested for English Language Lab Library (to be located within the lab in addition to the CDs of the text book which are loaded on the systems): 1. Suresh Kumar, E. and Sreehari, P. 2009. A Handbook for English Language Laboratories. New Delhi: Foundation 2. Strengthen Your Steps - Dr. M. Hari Prasad and others, Maruthi Publications 
+
+3. Speaking English Effectively 2nd Edition by Krishna Mohan and N. P. Singh, 2011. Macmillan Publishers India Ltd. Delhi. 
+4. Sasi Kumar, V and Dhamija, P.V. How to Prepare for Group Discussion and Interviews. Tata McGraw Hill 
+5. Hancock, M. 2009. English Pronunciation in Use. Intermediate. Cambridge: CUP 
+6. Spoken English: A Manual of Speech and Phonetics by R. K. Bansal and J. B. Harrison. 2013. Orient Blackswan. Hyderabad. 
+7. Hewings, M. 2009. English Pronunciation in Use. Advanced. Cambridge: CUP 
+8. Marks, J. 2009. English Pronunciation in Use. Elementary. Cambridge: CUP 
+9. Nambiar, K.C. 2011. Speaking Accurately. A Course in International Communication. New Delhi : Foundation 
+10. Soundararaj, Francis. 2012. Basics of Communication in English. New Delhi: Macmillan 
+11. Spoken English (CIEFL) in 3 volumes with 6 cassettes, OUP. 
+12. English Pronouncing Dictionary Daniel Jones Current Edition with CD. 
+13. A textbook of English Phonetics for Indian Students by T. Balasubramanian (Macmillan) 
+14. Lab Manual: A Manual entitled “English Language Communication Skills (ELCS) Lab Manual- cum- Work Book”, published by Cengage Learning India Pvt. Ltd, New Delhi. 2013  
+
+DISTRIBUTION AND WEIGHTAGE OF MARKS English Language Laboratory Practical Examination: 
+1. The practical examinations for the English Language Laboratory shall be conducted as per the University norms prescribed for the core engineering practical sessions. 
+2. For the Language lab sessions, there shall be a continuous evaluation during the year for 25 sessional marks and 50 year-end Examination marks. Of the 25 marks, 15 marks shall be awarded for day-to-day work and 10 marks to be awarded by conducting Internal Lab Test(s). The year- end Examination shall be conducted by the teacher concerned with the help of another member of the staff of the same department of the same institution. " />
+
+        </LinearLayout>
+    </ScrollView>
+    
+</RelativeLayout>

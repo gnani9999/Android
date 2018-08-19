@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".BS_lab" >
+    
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >  
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="BASIC SIMULATION LAB
+
+NOTE:
+    * All the experiments are to be simulated using MATLAB or equivalent software
+    * Minimum of 15 experiment are to be completed
+List of Experiments:
+1. Basic Operations on Matrices.
+2. Generation of Various Signals and Sequences (Periodic and Aperiodic), such as Unit Impulse, Unit Step, Square, Sawtooth, Triangular, Sinusoidal, Ramp, Sine.
+3. Operations on Signals and Sequences such as Addition, Multiplication, Scaling, Shifting, Folding,Computation of Energy and Average Power.
+4. Finding the Even and Odd parts of Signal/Sequence and Real and Imaginary parts of Signal.
+5. Convolution between Signals and sequences.
+6. Auto Correlation and Cross Correlation between Signals and Sequences.
+7. Verification of Linearity and Time Invariance Properties of a given Continuous/Discrete System.
+8. Computation of Unit sample, Unit step and Sinusoidal responses of the given LTI system and verifying its physical realiazability and stability properties.
+9. Gibbs Phenomenon
+10. Finding the Fourier Transform of a given signal and plotting its magnitude and phase spectrum.
+11. Waveform Synthesis using Laplace Transform.
+12. Locating the Zeros and Poles and plotting the Pole-Zero maps in S-plane and Z-Plane for the given transfer function.
+13. Generation of Gaussian noise ( Real and Complex), Computation of its mean, M.S. Value and its Skew, Kurtosis, and PSD, Probability Distribution Function.
+14. Sampling Theorem Veri?cation.
+15. Removal of noise by Autocorrelation / Cross correlation.
+16. Extraction of Periodic Signal masked by noise using Correlation.
+17. Verification of Weiner-Khinchine Relations.
+18. Checking a Random Process for Stationarity in Wide sense." />
+
+    
+    </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
+<!-- From: file:/D:/Android/JntuHR13SyllabusBook/app/src/main/res/layout/activity_bs_lab.xml -->

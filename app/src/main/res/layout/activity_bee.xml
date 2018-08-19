@@ -1,0 +1,72 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".BEE" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="Objectives: 
+                This course introduces the concepts of basic electrical engineering parameters, quantities, analysis of AC and DC circuits, the construction operation and analysis of transformers, DC and AC machines. It also gives knowledge about measuring instruments operation in detail.
+                
+                 UNIT–I 
+                 Introduction to Electrical Engineering: Ohm’s law, basic circuit components, Kirchhoff’s laws. Simple problems. Network Analysis: Basic definitions, types of elements, types of sources, resistive networks, inductive networks, capacitive networks, and series parallel circuits, star delta and delta star transformation. , Network theorems- Superposition, Thevenins’s, Maximum power transfer theorems and simple problems.
+                 
+                  UNIT-II 
+                  Alternating Quantities: Principle of ac voltages, waveforms and basic definitions, root mean square and average values of alternating currents and voltage, form factor and peak factor, phasor representation of alternating quantities, the J operator and phasor algebra, analysis of ac circuits with single basic network element, single phase series circuits. 
+                  
+                  UNIT-III 
+                  Transformers : Principles of operation, Constructional Details, Ideal Transformer and Practical Transformer, Losses, Transformer Test, Efficiency and Regulation Calculations (All the above topics are only elementary treatment and simple problems). 
+                
+                UNIT-IV 
+                D.C. and A.C. Machines: D.C generators: Principle of operation of dc machines, types of D.C generators, EMF equation in D.C generator. D.C motors: Principle of operation of dc motors, types of D.C motors, losses and torque equation, losses and efficiency calculation in D.C generator. A.C Machines: Three phase induction motor, principle of operation, slip and rotor frequency, torque (simple problems). "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+            
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="UNIT V 
+                Basic Instruments: Introduction, classification of instruments, operating principles, essential features of measuring instruments, Moving coil permanent magnet (PMMC) instruments, Moving Iron of Ammeters and Voltmeters (elementary Treatment only). 
+                
+                TEXT BOOKS:
+                 1. Basic concepts of Electrical Engineering, PS Subramanyam, BS Publications. 
+                 2. Basic Electrical Engineering, S.N. Singh, PHI. 
+                 
+                 REFERENCE BOOKS: 
+                 1. Basic Electrical Engineering, Abhijit Chakrabarthi, Sudipta nath, Chandrakumar Chanda, Tata-McGraw- Hill. 
+                 2. Principles of Electrical Engineering, V.K Mehta, Rohit Mehta, S.Chand Publications. 
+                 3. Basic Electrical Engineering, T.K.Nagasarkar and M.S. Sukhija, Oxford University Press. 
+                 4. Fundamentals of Electrical Engineering, RajendraPrasad, PHI. 
+                 5. Basic Electrical Engineering by D.P.Kothari , I.J. Nagrath, McGraw-Hill. 
+                 
+                 Outcomes: 
+                 After going through this course the student gets a thorough knowledge on basic electrical circuits, parameters, and operation of the transformers in the energy conversion process, electromechanical energy conversion, construction operation characteristics of DC and AC machines and the constructional features and operation of operation measuring instruments like voltmeter, ammeter, wattmeter etc...With which he/she can able to apply the above conceptual things to real-world electrical and electronics problems and applications.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        </LinearLayout>
+    </ScrollView>
+    
+</RelativeLayout>

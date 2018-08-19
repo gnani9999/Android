@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jntuhr13syllabusbook"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
+
+    <android:uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Years"
+            android:label="@string/title_activity_years" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Year1_subjects"
+            android:label="@string/title_activity_year1_subjects" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Mathematics_1"
+            android:label="@string/title_activity_mathematics_1" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.English"
+            android:label="@string/title_activity_english" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Mathematics_Methods"
+            android:label="@string/title_activity_mathematics__methods" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Engineering"
+            android:label="@string/title_activity_engineering" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Engineering_Physics"
+            android:label="@string/title_activity_engineering__physics" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Engineering_Chemistry"
+            android:label="@string/title_activity_engineering__chemistry" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Computer_programming"
+            android:label="@string/title_activity_computer_programming" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Engineering_drawing"
+            android:label="@string/title_activity_engineering_drawing" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Computer_programming_lab"
+            android:label="@string/title_activity_computer_programming_lab" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Physics_and"
+            android:label="@string/title_activity_physics_and" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Physics_chemistry_lab"
+            android:label="@string/title_activity_physics_chemistry_lab" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.ELCS_lab"
+            android:label="@string/title_activity_elcs_lab" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Workshop_it_lab"
+            android:label="@string/title_activity_workshop_it_lab" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Branches_1st_year"
+            android:label="@string/title_activity_branches_1st_year" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.About"
+            android:label="@string/title_activity_about" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Branches_2_1"
+            android:label="@string/title_activity_branches_2_1" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Branches_2_2"
+            android:label="@string/title_activity_branches_2_2" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Mathematics_3"
+            android:label="@string/title_activity_mathematics_3" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Probability_shotastic_process"
+            android:label="@string/title_activity_probability_shotastic_process" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Environmental_science"
+            android:label="@string/title_activity_environmental_science" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Electric_circuits"
+            android:label="@string/title_activity_electric_circuits" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Signals_and_systems"
+            android:label="@string/title_activity_signals_and_systems" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.EDC"
+            android:label="@string/title_activity_edc" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.BS_lab"
+            android:label="@string/title_activity_bs_lab" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.EDC_lab"
+            android:label="@string/title_activity_edc_lab" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Cse_2_1"
+            android:label="@string/title_activity_cse_2_1" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Probability_statistics"
+            android:label="@string/title_activity_probability_statistics" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Probability_and_statistics"
+            android:label="@string/title_activity_probability_and_statistics" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.MFCS"
+            android:label="@string/title_activity_mfcs" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Data_structures"
+            android:label="@string/title_activity_data_structures" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.DLD"
+            android:label="@string/title_activity_dld" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.BEE"
+            android:label="@string/title_activity_bee" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Data_structures_lab"
+            android:label="@string/title_activity_data_structures_lab" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.CSE_2_2"
+            android:label="@string/title_activity_cse_2_2" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Dept_cse_2_1"
+            android:label="@string/title_activity_dept_cse_2_1" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Dept_ece_2_1"
+            android:label="@string/title_activity_dept_ece_2_1" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Under_construction"
+            android:label="@string/title_activity_under_construction" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.English2"
+            android:label="@string/title_activity_english2" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.English3"
+            android:label="@string/title_activity_english3" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Branches2_1"
+            android:label="@string/title_activity_branches2_1" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Stld"
+            android:label="@string/title_activity_stld" >
+        </activity>
+        <activity
+            android:name="com.example.jntuhr13syllabusbook.Contact_US"
+            android:label="@string/title_activity_contact__us" >
+        </activity>
+    </application>
+
+</manifest>

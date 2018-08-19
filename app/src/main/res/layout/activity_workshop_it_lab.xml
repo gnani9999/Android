@@ -1,0 +1,129 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Computer_programming_lab" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="Objectives: 
+                The IT Workshop for engineers is a training lab course spread over 54 hours. The modules include training on PC Hardware, Internet and World Wide Web and Productivity tools including Word, Excel and Power Point.  
+
+Outcomes:   
+PC Hardware introduces the students to a personal computer and its basic peripherals, the process of assembling a personal computer, installation of system software like MS Windows, Linux and the required device drivers. In addition hardware and software level troubleshooting process, tips and tricks would be covered.  The students should work on working PC to disassemble and assemble to working condition and install Windows and Linux on the same PC.  Students are suggested to work similar tasks in the Laptop scenario wherever  possible.   
+Internet and World Wide Web module introduces the different ways of hooking the PC on to the internet from home and workplace and effectively usage of the internet. Usage of web browsers, email, newsgroups and discussion forums would be covered. In addition, awareness of cyber hygiene, i.e., protecting the personal computer from getting infected with the viruses, worms and other cyber attacks would be introduced.  
+Productivity tools module would enable the students in crafting professional word documents, excel spread sheets and power point presentations using the Microsoft suite of office tools and LaTeX. (Recommended to   use Microsoft office 2007 in place of MS Office 2003)  
+PC Hardware 
+Week 1 – Task 1 : Identify the peripherals of a computer, components in a CPU and its functions. Draw the block diagram of the CPU along with the configuration of each peripheral and submit to your instructor.  
+
+Week 2 – Task 2 : Every student should disassemble and assemble the PC back to working condition. Lab instructors should verify the work and follow it up with a Viva. Also students need to go through the video which shows the process of assembling a PC. A video would be given as part of the course content.  
+
+Week 3 – Task 3 : Every student should individually install MS windows on the personal computer. Lab instructor should verify the installation and follow it up with a Viva.  
+
+Week 4 – Task 4 : Every student should install Linux on the computer. This computer should have windows installed. The system should be configured as dual boot with both windows and Linux. Lab instructors should verify the installation and follow it up with a Viva  
+
+Week 5 – Task 5: Hardware Troubleshooting: Students have to be given a PC which does not boot due to improper assembly or defective peripherals. They should identify the problem and fix it to get the computer back to working condition. The work done should be verified by the instructor and followed up with a Viva  
+
+Week 6 – Task 6 : Software Troubleshooting : Students have to be given a malfunctioning CPU due to system software problems. They should identify the problem and fix it to get the computer back to working condition. The work done should be verified by the instructor and followed up with a Viva.  
+Internet and World Wide Web  
+
+Week 7 - Task 1 : Orientation and Connectivity Boot Camp : Students should get connected to their Local Area Network and access the Internet. In the process they configure the TCP/IP setting. Finally students should demonstrate, to the instructor, how to access the websites and email. If there is no internet connectivity preparations need to be made by the instructors to simulate the WWW on the LAN.  
+
+Week 8 - Task 2 : Web Browsers, Surfing the Web : Students customize their web browsers with the LAN proxy settings, bookmarks, search toolbars and pop up blockers. Also, plug-ins like Macromedia Flash and JRE for applets should be configured.  
+  
+Week 9 - Task 3 : Search Engines and Netiquette : Students should know what search engines are and how to use the search engines. A few topics would be given to the students for which they need to search on Google. This should be demonstrated to the instructors by the student.  
+
+Week 10 - Task 4: Cyber Hygiene: Students would be exposed to the various threats on the internet and would be asked to configure their computer to be safe on the internet. They need to first install antivirus software, configure their personal firewall and windows update on their computer. Then they need to customize their browsers to block pop ups, block active x downloads to avoid viruses and/or worms.  
+
+Week 11- Task 5: Develop your home page using HTML Consisting of your photo, name, address and education details as a table and your skill set as a list. "
+              />
+            
+             <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="Productivity tools  
+LaTeX and Word 
+ 
+Week 12 – Word Orientation: The mentor needs to give an overview of LaTeX and Microsoft (MS) office 2007/ equivalent (FOSS) tool word: Importance of LaTeX and MS office 2007/ equivalent (FOSS) tool Word as word Processors, Details of the three tasks and features that would be covered in each, using LaTeX and word – Accessing, overview of toolbars, saving files, Using help and resources, rulers, format painter.  
+Task 1 : Using LaTeX and Word to create project certificate. Features to be covered:-Formatting Fonts in word, Drop Cap in word, Applying Text effects, Using Character Spacing, Borders and Colors, Inserting Header and Footer, Using Date and Time option in both LaTeX and Word.  
+
+Week 13 - Task 2: Creating project abstract Features to be covered:-Formatting Styles, Inserting table, Bullets and Numbering, Changing Text Direction, Cell alignment, Footnote, Hyperlink, Symbols, Spell Check, Track Changes.   
+
+Week 14 - Task 3 : Creating a Newsletter : Features to be covered:- Table of Content, Newspaper columns, Images from files and clipart, Drawing toolbar and Word Art, Formatting Images, Textboxes,  Paragraphs and Mail Merge in word.  
+Excel  
+
+Week 15 - Excel Orientation: The mentor needs to tell the importance of MS office 2007/ equivalent (FOSS) tool Excel as a Spreadsheet tool, give the details of the two tasks and features that would be covered in each. Using Excel – Accessing, overview of toolbars, saving excel files, Using help and resources.  
+Task 1: Creating a Scheduler - Features to be covered:- Gridlines, Format Cells, Summation, auto fill, Formatting Text  
+
+Week 16 - Task 2 : Calculating GPA - .Features to be covered:- Cell Referencing, Formulae in excel – average, std. deviation, Charts, Renaming and Inserting worksheets, Hyper linking, Count function, LOOKUP/VLOOKUP, Sorting, Conditional formatting  
+LaTeX and MS/equivalent (FOSS) tool Power Point  
+
+Week 17 - Task1: Students will be working on basic power point utilities and tools which help them create basic power point presentation. Topic covered during this week includes :- PPT Orientation, Slide Layouts, Inserting Text, Word Art, Formatting Text, Bullets and Numbering, Auto Shapes, Lines and Arrows in both LaTeX and Power point. Students will be given model power point presentation which needs to be replicated (exactly how it’s asked).  
+
+Week 18- Task 2: Second week helps students in making their presentations interactive. Topic covered during this week includes: Hyperlinks, Inserting –Images, Clip Art, Audio, Video, Objects, Tables and Charts  
+
+Week 19 - Task 3: Concentrating on the in and out of Microsoft power point and presentations in LaTeX. Helps them learn best practices in designing and preparing power point presentation. Topic covered during this week includes: - Master Layouts (slide, template, and notes), Types of views (basic, presentation, slide slotter, notes etc), Inserting – Background, textures, Design Templates, Hidden slides.   
+
+REFERENCE BOOKS:
+ 1. Introduction to Information Technology, ITL Education Solutions limited, Pearson Education. 
+ 
+2. LaTeX Companion – Leslie Lamport, PHI/Pearson. 
+3. Introduction to Computers, Peter Norton, 6/e Mc Graw Hill Publishers. 
+4. Upgrading and Repairing, PC’s 18th e, Scott Muller QUE, Pearson Education  
+5. Comdex Information Technology course tool kit Vikas Gupta, WILEY Dreamtech  
+6.  IT Essentials PC Hardware and Software Companion Guide Third Edition by David Anfinson and KenQuamme. – CISCO Press, Pearson Education. 
+7. PC Hardware and A+Handbook – Kate J. Chase PHI (Microsoft) " />
+             
+              <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="ENGINEERING WORKSHOP   
+                
+1. TRADES FOR EXERCISES: At least two exercises from each trade:
+   1. Carpentry 
+   2. Fitting 
+   3. Tin-Smithy and Development of jobs carried out and soldering. 
+   4. Black Smithy 
+   5. House-wiring 
+   6. Foundry 
+   7. Welding  
+   8. Power tools in construction, wood working, electrical engineering and mechanical Engineering.   
+   
+   2. TRADES FOR DEMONSTRATION and EXPOSURE: 
+   1. Plumbing 
+   2. Machine Shop 
+   3. Metal Cutting (Water Plasma)  
+
+TEXT BOOK: 
+1. Work shop Manual - P.Kannaiah/ K.L.Narayana/ Scitech Publishers. 
+2. Workshop Manual / Venkat Reddy/ BS Publications/Sixth Edition "/>
+
+        </LinearLayout>
+    </ScrollView>
+    
+</RelativeLayout>

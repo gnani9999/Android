@@ -1,0 +1,83 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".EDC" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="Objectives:
+                 This is a fundamental course, basic knowledge of which is required by all the circuit branch engineers. 
+                 
+                 This course focuses: 
+                  To familiarize the student with the principle of operation, analysis and design of Junction diode, BJT and FET amplifier circuits, transistors and field effect transistors. 
+                  To understand diode as rectifier. 
+                  To study basic principle of filter circuits and various types.
+                 
+                  UNIT-I 
+                  P-N Junction Diode: Qualitative Theory of  P-N Junction, P-N  Junction as  a Diode,  Diode Equation, Volt- Ampere Characteristics, Temperature dependence of VI characteristic, Ideal versus Practical – Resistance levels (Static and Dynamic), Transition and Diffusion Capacitances, Diode Equivalent Circuits, Load Line Analysis, Breakdown Mechanisms in Semiconductor Diodes, Zener Diode Characteristics. Special Purpose Electronic Devices: Principle of Operation and Characteristics of Tunnel Diode (with the help of Energy Band Diagram), Varactor Diode, SCR and Semiconductor Photo Diode. 
+                  
+                  UNIT-II 
+                  Rectifiers and Filters : The P-N junction as a Rectifier,  Half wave Rectifier, Full wave Rectifier, Bridge Rectifier, Harmonic components in a Rectifier Circuit, Inductor Filters, Capacitor Filters,  L- Section Filters,  π- Section Filters, Comparision of Filters, Voltage Regulation using Zener Diode. 
+                
+                UNIT-III
+                 Bipolar Junction Transistor and UJT: The Junction Transistor, Transistor Current Components, Transistor as an Amplifier, Transistor Construction, BJT Operation, BJT Symbol, Common Base, Common Emitter and Common Collector Configurations, Limits of Operation , BJT Specifications, BJT Hybrid Model, Determination of h-parameters from Transistor Characteristics, Comparison of CB, CE, and CC Amplifier Configurations, UJT and Characteristics. "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+            
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="UNIT-IV
+                 Transistor Biasing and Stabilization: Operating Point, The DC and AC Load lines, Need for Biasing, Fixed Bias,  Collector Feedback Bias,  Emitter Feedback Bias, Collector - Emitter Feedback Bias, Voltage Divider Bias, Bias Stability,  Stabilization Factors, Stabilization against variations in VBE and β, Bias Compensation using Diodes and Transistors, Thermal Runaway, Thermal Stability,  Analysis of a Transistor Amplifier Circuit using h- Parameters. 
+                 
+                 UNIT-V 
+                 Field Effect Transistor and FET Amplifiers Field Effect Transistor: The Junction Field Effect Transistor (Construction, principle of operation, symbol) – Pinch-off Voltage - Volt-Ampere characteristics, The JFET Small Signal Model, MOSFET (Construction, principle of operation, symbol), MOSFET Characteristics in Enhancement and Depletion modes. FET Amplifiers: FET Common Source Amplifier, Common Drain Amplifier, Generalized FET Amplifier, Biasing FET, FET as Voltage Variable Resistor, Comparison of BJT and FET. 
+                 
+                 TEXT BOOKS:
+                  1. Millman’s Electronic Devices and Circuits – J. Millman, C.C.Halkias, and Satyabrata Jit, 2 Ed.,1998, TMH. 
+                  2. Electronic Devices and Circuits – Mohammad Rashid, Cengage Learing, 2013 
+                  3. Electronic Devices and Circuits – David A. Bell, 5 Ed, Oxford. 
+                  
+                  REFERENCE BOOKS: 
+                  1. Integrated Electronics –J. Millman and  Christos C. Halkias, 1991 Ed., 2008, TMH. 
+                  2. Electronic Devices and Circuits – R.L. Boylestad and Louis Nashelsky, 9 Ed., 2006, PEI/PHI. 
+                  3. Electronic Devices and Circuits – B. P. Singh, Rekha Singh, Pearson, 2Ed, 2013. 
+                  4. Electronic Devices and Circuits -K. Lal Kishore, 2 Ed., 2005, BSP. 
+                  5. Electronic Devices and Circuits – Anil K. Maini, Varsha Agarwal, 1 Ed., 2009, Wiley India Pvt. Ltd. 
+                  6. Electronic Devices and Circuits – S.Salivahanan, N.Suresh Kumar, A.Vallavaraj, 2 Ed., 2008, TMH. 
+                  
+                  Outcomes:
+                    Understand and Analyse the different types of diodes, operation and its characteristics. 
+                    Design and analyse the DC bias circuitry of BJT and FET.
+                     Design biasing circuits using diodes and transistors. 
+                     To analyze and design diode application circuits, amplifier circuits and oscillators employing BJT, FET devices.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

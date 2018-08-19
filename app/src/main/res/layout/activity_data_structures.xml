@@ -1,0 +1,90 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Data_structures" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="Objectives:
+                  To understand the basic concepts such as Abstract Data Types, Linear and Non Linear Data structures. 
+                  To understand the notations used to analyze the Performance of algorithms.
+                   To understand the behavior of data structures such as stacks, queues, trees, hash tables, search trees, Graphs and their representations. 
+                   To choose the appropriate data structure for a specified application. 
+                   To understand and analyze various searching and sorting algorithms. 
+                   To write programs in C to solve problems using data structures such as arrays, linked lists, stacks, queues, trees, graphs, hash tables, search trees. 
+                  
+                  UNIT-I
+                   Basic concepts- Algorithm Specification-Introduction, Recursive algorithms, Data Abstraction Performance analysis- time complexity and space complexity, Asymptotic Notation-Big O, Omega and Theta notations, Introduction to Linear and Non Linear data structures. Singly Linked Lists-Operations-Insertion, Deletion, Concatenating singly linked lists, Circularly linked lists- Operations for Circularly linked lists, Doubly Linked Lists- Operations-Insertion, Deletion. Representation of single, two dimensional arrays, sparse matrices-array and linked representations.
+                   
+                  UNIT-II 
+                    Stack ADT, definition, operations, array and linked implementations in C, applications-infix to postfix conversion, Postfix expression evaluation, recursion implementation, Queue ADT, definition and operations ,array and linked Implementations in C, Circular queues-Insertion and deletion operations, Deque (Double ended queue)ADT, array and linked implementations in C. 
+                    
+                  UNIT-III
+                     Trees – Terminology, Representation of Trees, Binary tree ADT, Properties of Binary Trees, Binary Tree Representations-array and linked representations, Binary Tree traversals, Threaded binary trees, Max Priority Queue ADT-implementation-Max Heap-Definition, Insertion into a Max Heap, Deletion from a Max Heap. Graphs – Introduction, Definition, Terminology, Graph ADT, Graph Representations- Adjacency matrix, Adjacency lists, Graph traversals- DFS and BFS. 
+                     
+                  UNIT-IV 
+                     Searching- Linear Search, Binary Search, Static Hashing-Introduction, hash tables, hash functions, Overflow Handling. Sorting-Insertion Sort, Selection Sort, Radix Sort, Quick sort, Heap Sort, Comparison of Sorting methods. UNIT-V Search Trees-Binary Search Trees, Definition, Operations- Searching, Insertion and Deletion, AVL Trees- Definition and Examples, Insertion into an AVL Tree ,B-Trees, Definition, B-Tree of order m, operations-Insertion and Searching, Introduction to Red-Black and Splay Trees(Elementary treatment-only Definitions and Examples), Comparison of Search Trees. Pattern matching algorithm- The Knuth-Morris-Pratt algorithm, Tries (examples only). TEXT BOOKS: 1. Fundamentals of Data structures in C, 2nd Edition, E.Horowitz, S.Sahni and Susan Anderson-Freed, Universities Press. 2. Data structures A Programming Approach with C, D.S.Kushwaha and A.K.Misra, PHI. REFERENCE BOOKS: 1. Data structures: A Pseudocode Approach with C, 2nd edition, R.F.Gilberg And B.A.Forouzan, Cengage Learning. 2. Data structures and Algorithm Analysis in C, 2nd edition, M.A.Weiss, Pearson. 3. Data Structures using C, A.M.Tanenbaum,Y. Langsam, M.J.Augenstein, Pearson. 4. Data structures and Program Design in C, 2nd edition, R.Kruse, C.L.Tondo and B.Leung,Pearson. 5. Data Structures and Algorithms made easy in JAVA, 2nd Edition, Narsimha  Karumanchi, CareerMonk Publications. 6. Data Structures using C, R.Thareja, Oxford University Press. 7. Data Structures, S.Lipscutz,Schaum’s Outlines, TMH. 8. Data structures using C, A.K.Sharma, 2nd edition, Pearson.. 9. Data Structures using C andC++, R.Shukla, Wiley India. 10. Classic Data Structures, D.Samanta, 2nd edition, PHI. 11. Advanced Data structures, Peter Brass, Cambridge. Outcomes:  Learn how to use data structure concepts for realistic problems.  Ability to identify appropriate data structure for solving computing problems in respective language.  Ability to solve problems independently and think critically.
+                     "
+                     android:textAppearance="?android:attr/textAppearanceSmall" />
+            
+             <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="UNIT-IV 
+                Searching- Linear Search, Binary Search, Static Hashing-Introduction, hash tables, hash functions, Overflow Handling. Sorting-Insertion Sort, Selection Sort, Radix Sort, Quick sort, Heap Sort, Comparison of Sorting methods. 
+                
+                UNIT-V 
+                Search Trees-Binary Search Trees, Definition, Operations- Searching, Insertion and Deletion, AVL Trees- Definition and Examples, Insertion into an AVL Tree ,B-Trees, Definition, B-Tree of order m, operations-Insertion and Searching, Introduction to Red-Black and Splay Trees(Elementary treatment-only Definitions and Examples), Comparison of Search Trees. Pattern matching algorithm- The Knuth-Morris-Pratt algorithm, Tries (examples only). 
+                
+                TEXT BOOKS: 
+                1. Fundamentals of Data structures in C, 2nd Edition, E.Horowitz, S.Sahni and Susan Anderson-Freed, Universities Press. 
+                2. Data structures A Programming Approach with C, D.S.Kushwaha and A.K.Misra, PHI. 
+                
+                REFERENCE BOOKS: 
+                1. Data structures: A Pseudocode Approach with C, 2nd edition, R.F.Gilberg And B.A.Forouzan, Cengage Learning. 
+                2. Data structures and Algorithm Analysis in C, 2nd edition, M.A.Weiss, Pearson. 
+                3. Data Structures using C, A.M.Tanenbaum,Y. Langsam, M.J.Augenstein, Pearson. 
+                4. Data structures and Program Design in C, 2nd edition, R.Kruse, C.L.Tondo and B.Leung,Pearson. 
+                5. Data Structures and Algorithms made easy in JAVA, 2nd Edition, Narsimha  Karumanchi, CareerMonk Publications. 
+                6. Data Structures using C, R.Thareja, Oxford University Press. 
+                7. Data Structures, S.Lipscutz,Schaum’s Outlines, TMH. 
+                8. Data structures using C, A.K.Sharma, 2nd edition, Pearson.. 
+                9. Data Structures using C andC++, R.Shukla, Wiley India. 
+                10. Classic Data Structures, D.Samanta, 2nd edition, PHI. 
+                11. Advanced Data structures, Peter Brass, Cambridge. 
+                
+                Outcomes:
+                  Learn how to use data structure concepts for realistic problems. 
+                  Ability to identify appropriate data structure for solving computing problems in respective language. 
+                  Ability to solve problems independently and think critically."
+                
+                     android:textAppearance="?android:attr/textAppearanceSmall" />
+
+             
+        </LinearLayout>
+    </ScrollView>
+    
+</RelativeLayout>

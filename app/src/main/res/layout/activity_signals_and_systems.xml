@@ -1,0 +1,116 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Signals_and_systems" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="SIGNALS AND SYSTEMS
+Objectives:
+This is a core subject, basic knowledge of which is required by all the engineers.
+This course focuses on:
+* To get an in-depth knowledge about signals, systems and analysis of the same using various
+transforms.
+
+UNIT-I:
+Signal Analysis and Fourier Series
+Signal Analysis: Analogy between Vectors and Signals, Orthogonal Signal Space, Signal approximation using
+Orthogonal functions, Mean Square Error, Closed or complete set of Orthogonal functions, Orthogonality in
+Complex functions, Exponential and Sinusoidal signals, Concepts of Impulse function, Unit Step function, Signum
+function.
+Fourier Series: Representation of Fourier series, Continuous time periodic signals, Properties of Fourier Series,
+Dirichlet‘s conditions, Trigonometric Fourier Series and Exponential Fourier Series, Complex Fourier spectrum.
+
+UNIT-ll:
+Fourier Transforms and Sampling
+Fourier Transforms: Deriving Fourier Transform from Fourier Series, Fourier Transform of arbitrary signal,
+Fourier Transform of standard signals, Fourier Transform of Periodic Signals, Properties of Fourier Transform,
+Fourier Transforms involving Impulse function and Signum function, Introduction to Hilbert Transform.
+Sampling: Sampling theorem - Graphical and analytical proof for Band Limited Signals, Typers of Sampling -
+Impulse Sampling, Natural and Flat top Sampling, Reconstruction of signal from its samples, Effed of under
+sampling - Aliasing, Introduction to Band Pass sampling.
+
+UNIT-III:
+Signal Transmission Through Linear Systems: Linear System, Impulse response, Response of a Linear
+System, Linear Time Invariant (LTI) System, Linear Time Variant (LT\/) System, Transfer function of a LTI
+system, Filter characteristics of Linear Systems, Distortion less transmission through a system, Signal bandwidth,
+System bandwidth, Ideal LPF, HPF and BPF characteristics, Causality and Paley-Wiener criterion for physical
+realization, Relationship between Bandwidth and Rise time.
+
+UNIT-IV:
+Convolution and Correlation of Signals: Concept of convolution in Time domain and Frequency domain,
+Graphical representation of Convolution, Convolution property of Fourier Transforms, Cross Correlation and
+Auto Correlation of functions, Properties of Correlation function, Energy density spectrum, Parseval’s Theorem,
+Power density spectrum, Relation between Auto Correlation function and Energy/Power spectral density function,
+Relation between Convolution and Correlation, Detection of periodic signals in the presence of Noise by
+Correlation, Extraction of signal from noise by filtering.
+
+UNIT-V:
+Laplace Transforms and Z-Transforms
+Laplace Transforms: Review of Laplace Transforms (L.T), Partial fraction expansion, Inverse Laplace
+Transform, Concept of Region of Convergence (ROC) for Laplace Transforms, Constraints on ROC for various
+classes of signals, Properties of L.T, Relation between L.T and F.T of a signal, Laplace Transform of certain
+signals using waveform synthesis.
+Z—Transforms: Fundamental difference between Continuous and Discrete time signals, Discrete time signal
+representation using Complex exponential and Sinusoidal components, Periodicity of Discrete time signal using
+complex exponential signal, Concept of Z- Transfomi of a Discrete Sequence, Distinction between Laplace,
+Fourier and Z Transforms, Region of Convergence in Z-Transform, Constraints on ROC for various classes of
+signals, Inverse Z-transfonn, Properties of Z-transforms." />
+
+<TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="TEXT BOOKS:
+1. Signals, Systems and Communications - B.P. Lathi, 2013, BSP.
+2. Signals and Systems - A.V. Oppenheim, A.S. Willsky and S.H. Nawab, 2 Ed., PHI.
+
+REFERENCE BOOKS:
+1. Signals and Systems - Simon Haykin and Van Veen,Wiley, 2 Ed.
+2. Signals and Signals - Iyer and K. Satya Prasad, Cengage Learning
+Signals and Systems — A.Rama Krishna Rao — 2008, TMH.
+Introduction to Signal and System Analysis - K.GopaIan 2009, Cengage Learning.
+P9’
+5. Fundamentals of Signals and Systems - Michel J. Robert, 2008, MGH International Edition.
+6. Signals, Systems and Transforms - C. L. Philips, J.M.Parr and Eve A.Riskin, 3 Ed., 2004, PE.
+
+Course Outcomes:
+Upon completing this course the student will be able to:
+- Represent any arbitrary signals in terms of complete sets of orthogonal functions and understands
+the principles of impulse functions, step function and signum function.
+- Express periodic signals in terms of Fourier series and express the spectrum and express the
+arbitrary signal (discrete) as Fourier transform to draw the spectrum.
+- Understands the principle of linear system, ?lter characteristics of a system and its bandwidth, the
+concepts of auto correlation and cross correlation and power Density Spectrum.
+- Can design a system for sampling a signal.
+- For a given system, response can be obtained using Laplace transform, properties and ROC of L.T.
+- Study the continuous and discrete signal relation and relation between F.T., L.T. and Z.T, properties,
+ROC of Z Transform.
+                " />
+    
+    </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Probability_shotastic_process" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:layout_weight="18.15"
+                android:text=" Objectives: The primary objective of this course is:   To provide mathematical background and sufficient experience so that the student can read, write, and understand sentences in the language of probability theory, as well as solve probabilistic problems in signal processing and Communication Engineering.   To introduce students to the basic methodology of “probabilistic thinking” and to apply it to problems;  To understand basic concepts of probability theory and random variables, how to deal with multiple random variables, Conditional probability and conditional expectation, joint distribution and independence, mean square estimation.  To understand the difference between time averages and statistical averages  Analysis of random process and application to the signal processing in the communication system.  To teach students how to apply sums and integrals to compute probabilities, means, and expectations.   UNIT-I:  Probability and Random Variable Probability: Probability introduced through Sets and Relative Frequency, Experiments and Sample Spaces, Discrete and Continuous Sample Spaces, Events, Probability Definitions and Axioms, Mathematical Model of Experiments, Probability as a Relative Frequency, Joint Probability, Conditional Probability, Total Probability, Bayes’ Theorem, Independent Events.  Random Variable: Definition of a Random Variable, Conditions for a Function to be a Random Variable, Discrete, Continuous and Mixed Random Variables  
+UNIT -II:  Distribution and Density Functions and Operation on One Random Variable – Expectations Distribution and Density Functions: Distribution and Density functions and their Properties - Binomial, Poisson, Uniform, Gaussian, Exponential, Rayleigh and Conditional Distribution,  Methods of defining Conditional Event, Conditional Density, Properties. Operation on One Random Variable – Expectations: Introduction, Expected Value of a Random Variable, Function of a Random Variable,  Moments about the Origin, Central Moments, Variance and Skew, Chebychev’s Inequality,  Characteristic Function, Moment Generating Function,  Transformations of a Random Variable: Monotonic Transformations for a Continuous Random Variable, Non-monotonic Transformations of Continuous Random Variable, Transformation of a Discrete Random Variable.  
+UNIT-III:  Multiple Random Variables and Operations  Multiple Random Variables: Vector Random Variables, Joint Distribution Function, Properties of Joint Distribution, Marginal Distribution Functions, Conditional Distribution and Density – Point Conditioning, Conditional Distribution and Density – Interval conditioning, Statistical Independence, Sum of Two Random Variables, Sum of Several Random Variables, Central Limit Theorem (Proof not expected), Unequal Distribution, Equal Distributions. Operations on Multiple Random Variables: Expected Value of a Function of Random Variables: Joint Moments about the Origin, Joint Central Moments, Joint Characteristic Functions, Jointly Gaussian Random Variables: Two Random Variables case, N Random Variable case, Properties, Transformations of Multiple Random Variables, Linear Transformations of Gaussian Random Variables. "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+            
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:layout_weight="18.15"
+                android:text="UNIT-IV:  Stochastic Processes – Temporal Characteristics: The Stochastic Process Concept, Classification of Processes, Deterministic and Nondeterministic Processes, Distribution and Density Functions, Concept of Stationarity and Statistical Independence, First-Order Stationary Processes, Second-Order and Wide-Sense Stationarity, Nth Order and Strict-Sense Stationarity, Time Averages and Ergodicity, Mean-Ergodic Processes, Correlation-Ergodic Processes, Autocorrelation Function and its Properties, Cross-Correlation Function and its Properties, Covariance and its Properties, Linear System Response of Mean and Mean-squared Value, Autocorrelation Function, Cross-Correlation Functions, Gaussian Random Processes, Poisson Random Process.  
+UNIT-V:  Stochastic Processes – Spectral Characteristics: Power Spectrum: Properties, Relationship between Power Spectrum and Autocorrelation Function, Cross-Power Density Spectrum, Properties, Relationship between Cross-Power Spectrum and Cross-Correlation Function, Spectral Characteristics of System Response: Power Density Spectrum of Response, Cross-Power Spectral Density of Input and Output of a Linear System.  
+www.jntuworld.com || www.android.jntuworld.com || www.jwjobs.net || www.android.jwjobs.net
+www.jntuworld.com || www.jwjobs.net
+JNTUWORLD
+TEXT BOOKS: 1. Probability, Random Variables and Random Signal Principles - Peyton Z. Peebles, 4Ed., 2001, TMH. 2. Probability and Random Processes – Scott Miller, Donald Childers, 2 Ed, Elsevier, 2012.  
+REFERENCE BOOKS: 1. Probability, Random Variables and Stochastic Processes – Athanasios Papoulis and S. Unnikrishna  Pillai, 4 Ed., TMH. 2. Theory of Probability and Stochastic Processes- Pradip Kumar Gosh,  University Press 3. Probability and Random Processes with Application to Signal Processing – Henry Stark and John W. Woods, 3 Ed., PE 4. Probability Methods of Signal and System Analysis - George R. Cooper, Clave D. MC Gillem, 3 Ed., 1999, Oxford. 5. Statistical Theory of Communication - S.P. Eugene Xavier, 1997, New Age Publications.  
+Outcomes: Upon completion of the subject, students will be able to compute:   Simple probabilities using an appropriate sample space.  Simple probabilities and expectations from probability density functions (pdfs)  Likelihood ratio tests from pdfs for statistical engineering problems.  Least -square and maximum likelihood estimators for engineering problems.  Mean and covariance functions for simple random processes."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
+<!-- From: file:/D:/Android/JntuHR13SyllabusBook/app/src/main/res/layout/activity_probability_shotastic_process.xml -->

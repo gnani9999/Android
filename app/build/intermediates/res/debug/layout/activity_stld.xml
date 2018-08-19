@@ -1,0 +1,106 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Stld" >
+    
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+               android:textColor="#ffffff"
+                android:text="SWITCHING THEORY AND LOGIC DESIGN
+Course Objectives:
+This course provides in-depth knowledge of switching theory and the design techniques of digital circuits, which
+is the basis for design of any digital circuit. The main objectives are:
+~ To learn basic techniques for the design of digital circuits and fundamental concepts used in the design
+of digital systems.
+~ To understand common forms of number representation in digital electronic circuits and to be able to
+convert between different representations.
+» To implement simple logical operations using combinational logic circuits
+~ To design combinational logic circuits, sequential logic circuits.
+- To impart to student the concepts of sequential circuits, enabling them to analyze sequential systems in
+terms of state machines.
+- To implement synchronous state machines using flip-flops.
+UN IT -I:
+Number System and Boolean Algebra And Switching Functions: Number Systems, Base Conversion
+Methods, Complements of Numbers, Codes- Binary Codes, Binary Coded Decimal Code and its Properties, Unit
+Distance Codes, Alpha Numeric Codes, Error Detecting and Correcting Codes.
+Boolean Algebra: Basic Theorems and Properties, Switching Functions, Canonical and Standard Form,
+Algebraic Simplification of Digital Logic Gates, Properties of XOR Gates, Universal Gates, Multilevel NAND/NOR
+realizations.
+UNIT -ll:
+Minimization and Design of Combinational Circuits: Introduction, The Minimization with theorem, The
+Karnaugh Map Method, Five and Six Variable Maps, Prime and Essential Implications, Don’t Care Map Entries,
+Using the Maps for Simplifying, Tabular Method, Partially Specified Expressions, Multi-output Minimization,
+Minimization and Combinational Design, Arithmetic Circuits, Comparator, Multiplexers, Code Converters, Wired
+Logic, Tristate Bus System, Practical Aspects related to Combinational Logic Design, Hazards and Hazard Free
+Relations.
+UN IT -III:
+Sequential Machines Fundamentals: Introduction, Basic Architectural Distinctions between Combinational and
+Sequential circuits, The Binary Cell, Fundamentals of Sequential Machine Operation, The Flip-Flop, The D-Latch
+Flip-Flop, The “Clocked T” Flip-Flop, The “ Clocked J-K” Flip-Flop, Design of a Clocked Flip-Flop, Conversion
+from one type of Flip-Flop to another, Timing and Triggering Consideration, Clock Skew.
+UNIT -IV:
+Sequential Circuit Design and Analysis: Introduction, State Diagram, Analysis of Synchronous Sequential
+Circuits, Approaches to the Design of Synchronous Sequential Finite State Machines, Design Aspects, State
+Reduction, Design Steps, Realization using Flip-Flops
+Counters - Design of Single mode Counter, Ripple Counter, Ring Counter, Shift Register, Shift Register
+Sequences, Ring Counter Using Shift Register.
+UN IT -V:
+Sequential Circuits: Finite state machine-capabilities and limitations, Mealy and Moore models-minimization of
+completely specified and incompletely specified sequential machines, Partition techniques and Merger chart
+methods-concept of minimal cover table.
+Algorithmic State Machines: Salient features of the ASM chart-Simple examples-System design using data
+path and control subsystems-control implementations-examples of Weighing machine and Binary multiplier." />
+            
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+               android:textColor="#ffffff"
+                android:text="TEXT BOOKS:
+1. Switching and Finite Automata Theory- Zvi Kohavi and Niraj K. Jha, 3 Edition, Cambridge.
+2. Digital Design- Morris Mano, PHI, 3 Edition.
+REFERENCE BOOKS:
+1. Introduction to Switching Theory and Logic Design - Fredriac J. Hill, Gerald R. Peterson, 3 Ed,John
+Wiley and Sons Inc.
+2. Digital Fundamentals - A Systems Approach - Thomas L. Floyd, Pearson, 2013.
+3. Digital Logic Design - Ye Brian and Ho|dsWorth, Elsevier
+4. Fundamentals of Logic Design- Charles H. Roth, Cengage LEanring, 5, Edition, 2004.
+5. Digital Logic Applications and Design- John M. Yarbrough, Thomson Publications, 2006.
+6. Digital Logic and State Machine Design - Comer, 3, Oxford, 2013.
+Course Outcomes:
+Upon completion of the course, students should possess the following skills:
+- Be able to manipulate numeric information in different fomis, e.g. different bases, signed integers,
+various codes such as ASCII, Gray, and BCD.
+- Be able to manipulate simple Boolean expressions using the theorems and postulates of Boolean
+algebra and to minimize combinational functions.
+- Be able to design and analyse small combinational circuits and to use standard combinational
+functions/building blocks to build larger more complex circuits.
+- Be able to design and analyse small sequential circuits and devices and to use standard sequential
+functions/building blocks to build larger more complex circuits" />
+            
+            </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
+<!-- From: file:/D:/Android/JntuHR13SyllabusBook/app/src/main/res/layout/activity_stld.xml -->

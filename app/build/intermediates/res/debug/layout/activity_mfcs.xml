@@ -1,0 +1,79 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MFCS" >
+   
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:textColor="#ffffff"
+                android:layout_height="wrap_content"
+                android:text="Objectives:
+                 • To explain with examples the basic terminology of functions, relations, and sets. 
+                 • To perform the operations associated with sets, functions, and relations. 
+                 • To relate practical examples to the appropriate set, function, or relation model, and interpret the associated operations and terminology in context. 
+                 • To describe the importance and limitations of predicate logic. 
+                 • To relate the ideas of mathematical induction to recursion and recursively defined structures. 
+                 • To use Graph Theory for solving problems. 
+                 
+                 UNIT-I
+                  Mathematical Logic : Statements and notations, Connectives, Well formed formulas, Truth Tables, tautology, equivalence implication, Normal forms, Quantifiers, universal quantifiers. Predicates : Predicative logic, Free and Bound variables, Rules of inference, Consistency, proof of contradiction, Automatic Theorem Proving. 
+                  
+                  UNIT-II
+                   Relations: Properties of Binary Relations, equivalence, transitive closure,  compatibility and partial ordering relations, Lattices, Hasse diagram. Functions: Inverse Function Composition of functions, recursive Functions, Lattice and its Properties, Algebraic structures : Algebraic systems Examples and general properties, Semi groups and monads, groups sub groups’ homomorphism, Isomorphism. "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+            
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="UNIT-III 
+                Elementary Combinatorics: Basis of counting, Combinations and Permutations, with repetitions, Constrained repetitions, Binomial Coefficients, Binomial Multinomial theorems, the principles of Inclusion – Exclusion. Pigeon hole principles and its application. 
+                UNIT-IV 
+                Recurrence Relation : Generating Functions, Function of Sequences Calculating Coefficient of generating function, Recurrence relations, Solving recurrence relation by substitution and Generating funds. Characteristics roots solution of In homogeneous Recurrence Relation. 
+                UNIT-V 
+                Graph Theory : Representation of Graph, DFS, BFS, Spanning Trees, planar Graphs. Graph Theory and Applications, Basic Concepts Isomorphism and Sub graphs, Multi graphs and Euler circuits, Hamiltonian graphs, Chromatic Numbers. 
+                
+                TEXT BOOKS :
+                 1. Elements of DISCRETE MATHEMATICS- A computer Oriented Approach- C L Liu, D P Mohapatra. Third Edition, Tata McGraw Hill. 
+                 2. Discrete Mathematics for Computer Scientists and Mathematicians, J.L. Mott, A. Kandel, T.P. Baker, PHI. 
+                 
+                 REFERENCE BOOKS : 
+                 1. Discrete Mathematics and its Applications, Kenneth H. Rosen, Fifth Edition.TMH. 
+                 2. Discrete Mathematical structures Theory and application-Malik and Sen, Cengage. 
+                 3. Discrete Mathematics with Applications, Thomas Koshy, Elsevier. 
+                 4. Logic and Discrete Mathematics, Grass Man and Trembley, Pearson Education. 
+                 
+                 Outcomes:
+                  • Ability to  Illustrate by examples the basic terminology of functions, relations, and sets and demonstrate knowledge of their associated operations. 
+                  • Ability to Demonstrate in practical applications the use of basic counting principles of permutations, combinations, inclusion/exclusion principle and the pigeonhole methodology. 
+                  • Ability to represent and Apply Graph theory in solving computer science problems.
+                "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
+<!-- From: file:/D:/Android/JntuHR13SyllabusBook/app/src/main/res/layout/activity_mfcs.xml -->

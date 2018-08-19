@@ -1,0 +1,98 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Physics_chemistry_lab" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="ENGINEERING PHYSICS / ENGINEERING CHEMISTRY LAB   
+ENGINEERING PHYSICS LAB (Any TEN experiments compulsory)  
+1. Dispersive power of the material of a prism – Spectrometer 
+2. Determination of wavelength of a source – Diffraction Grating. 
+3. Newton’s Rings - Radius of curvature of plano convex lens. 
+4. Melde’s experiment – Transverse and longitudinal modes. 
+5. Time constant of an R-C circuit. 
+6. L-C-R circuit. 
+7. Magnetic field along the axis of current carrying coil – Stewart and Gees method. 
+8. Study the characteristics of LED and LASER sources. 
+9. Bending losses of fibres and Evaluation of numerical aperture of a given fibre. 
+10. Energy gap of a material of p-n junction. 
+11. Torsional pendulum. 
+12. Wavelength of light –diffraction grating - using laser. 
+13. Characteristics of a solar cell 
+
+ 
+LABORATORY MANUAL:  1. Laboratory Manual of Engineering Physics by Dr.Y.Aparna and Dr.K.Venkateswara Rao (V.G.S Publishers)
+  
+OBJECTIVES 
+This course on Physics lab is designed with 13 experiments in an academic year. It is common to all branches of Engineering in B.Tech Ist year. The objective of the course is that the student will have exposure to various experimental skills which is very essential for an Engineering student. The experiments are selected from various area of Physics like Physical Optics, Lasers, Fiber Optics, Sound, Mechanics, Electricity and Magnetism and Basic Electronics.  Also the student is exposed to various tools like Screw gauge, Vernier Callipers, Physics Balance , Spectrometer and Microscope.   
+
+OUTCOME
+ The student is expected to learn from this laboratory course the concept of error and its analysis. It also allows the student to develop experimental skills to design new experiments in Engineering.  With the exposure to these experiments the student can compare the theory and correlate with experiment"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+            
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="ENGINEERING CHEMISTRY LAB 
+                List of Experiments ( Any 12 of the following) : 
+                 
+Titrimetry: 
+1. Estimation of ferrous iron by dichrometry. 
+2. Estimation of hardness of water by EDTA method.  Mineral analysis: 
+3. Determination  of percentage of copper in brass. 
+4. Estimation of manganese dioxide in pyrolusite. Instrumental Methods: Colorimetry: 
+5. Determination of ferrous iron in cement by colorimetric method 
+6. Estimation of copper by colorimetric method. Conductometry: 
+7. Conductometric titration of strong acid vs strong base. 
+8. Conductometric titration of mixture of acids vs strong base. Potentiometry:  
+9. Titration of strong acd vs strong base by potentiometry. 
+10.  Titration of weak acid  vs strong base by potentiometry. Physical properties:       
+11.Determination of viscosity of sample oil by redwood / oswald’s viscometer. 
+12.Determination of Surface tension of lubricants.
+
+  
+Preparations: 
+     13. Preparation of Aspirin 
+14. Preparation of Thiokol rubber 
+
+Adsorption: 
+15. Adsorption of acetic acid on charcoal.  
+ 
+ 
+  TEXT BOOKS: 
+  1. Practical Engineering Chemistry by K. Mukkanti, etal, B.S. Publications, Hyderabad. 
+  2. Inorganic quantitative analysis, Vogel.  
+
+REFERENCE BOOKS: 1. Text Book of engineering chemistry by R. N. Goyal and Harrmendra Goel, Ane Books Private Ltd., 
+2. A text book on experiments and calculation Engg. S.S. Dara. 3. Instrumental methods of chemical analysis, Chatwal, Anand, Himalaya Publications. " />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
+<!-- From: file:/D:/Android/JntuHR13SyllabusBook/app/src/main/res/layout/activity_physics_chemistry_lab.xml -->

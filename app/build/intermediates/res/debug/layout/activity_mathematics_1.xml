@@ -1,0 +1,79 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Mathematics_1" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="
+                
+                UNIT-I 
+                  Theory of Matrices: Real matrices – Symmetric, skew – symmetric, orthogonal. Complex matrices: Hermitian, Skew- Hermitian and Unitary Matrices. Idempotent matrix, Elementary row and column transformations- Elementary matrix, Finding rank of a matrix by reducing to Echelon and normal forms. Finding the inverse of a non-singular square matrix using row/ column transformations (Gauss- Jordan method). Consistency of system of linear equations (homogeneous and non- homogeneous) using the rank of a matrix. Solving m x n and n x n linear system of equations by Gauss elimination. Cayley-Hamilton Theorem (without proof) – Verification. Finding inverse of a matrix and powers of a matrix by Cayley-Hamilton theorem, Linear dependence and Independence of Vectors. Linear Transformation – Orthogonal Transformation.  Eigen values and eigen vectors of a matrix. Properties of eigen values and eigen vectors of real and complex matrices. Finding linearly independent eigen vectors of a matrix when the eigen values of the matrix are repeated. 
+                Diagonalization of matrix – Quadratic forms up to three variables. Rank – Positive definite, negative definite, semi definite, index, signature of quadratic forms. Reduction of a quadratic form to canonical form.  
+                 
+                 UNIT – II  
+                   Differential calculus methods. Rolle’s Mean value Theorem – Lagrange’s Mean Value Theorem – Cauchy’s mean value Theorem – (all theorems without proof but with geometrical interpretations), verification of the Theorems and testing the applicability of these theorem to the given function. 
+                 Functions of several variables: Functional dependence- Jacobian- Maxima and Minima of functions of two variables without constraints and with constraints-Method of Lagrange multipliers.  
+                 
+				UNIT – III
+				  Improper integration, Multiple integration and applications: Gamma and Beta Functions –Relation between them, their properties – evaluation of improper integrals using Gamma / Beta functions
+				 Multiple integrals – double and triple integrals – change of order of integration- change of variables (polar, cylindrical and spherical)  Finding the area of a region using double integration and volume of a region using triple integration. "
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+            
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:text="
+                UNIT – IV  
+                  Differential equations and applications:  
+                  Overview of differential equations- exact, linear and Bernoulli (NOT TO BE EXAMINED). Applications of first order differential equations – Newton’s Law of cooling, Law of natural growth and decay, orthogonal trajectories.
+                   Linear differential equations of second and higher order with constant coefficients,   Non-homogeneous term of the 
+type f(X) = e^ax, Sin ax, Cos ax, and x^n, e^ax
+V(x), x^n
+V(x), method of variation of parameters.  Applications to bending of beams, Electrical circuits and simple harmonic motion.   
+UNIT – V   
+ Laplace transform and its applications to Ordinary differential equations Definition of Integral transform, Domain of the function and Kernel for the Laplace transforms. Existence of Laplace transform. Laplace transform of standard functions, first shifting Theorem, Laplace transform of functions when they are multiplied or divided by “t”. Laplace transforms of derivatives and integrals of functions. – Unit step function – second shifting theorem – Dirac’s delta function, Periodic function – Inverse Laplace  transform by Partial fractions( Heaviside method)  Inverse Laplace transforms of functions when they are multiplied or divided by ”s”, Inverse Laplace Transforms of derivatives and integrals of functions,  Convolution theorem –- Solving ordinary differential equations by Laplace transforms.
+   
+TEXT BOOKS: 
+1. Advanced engineering Mathematics by Kreyszig, John Wiley and Sons Publishers.  
+2. Higher Engineering Mathematics by B.S. Grewal, Khanna Publishers. 
+
+REFERENCES:
+ 1. Advanced Engineering Mathematics by R.K. Jain and S.R.K. Iyengar, 3rd edition, Narosa Publishing House, Delhi. 
+ 2. Engineering Mathematics – I by T.K. V. Iyengar, B. Krishna Gandhi and Others, S. Chand. 
+ 3. Engineering Mathematics – I by D. S. Chandrasekhar, Prison Books Pvt. Ltd. 
+ 4. Engineering Mathematics – I by G. Shanker Rao and Others I.K. International Publications. 
+ 5. Advanced Engineering Mathematics with MATLAB, Dean G. Duffy, 3rd Edi, CRC Press Taylor and Francis Group. 
+ 6. Mathematics for Engineers and Scientists, Alan Jeffrey, 6ht Edi, 2013, Chapman and Hall/ CRC 
+ 7. Advanced Engineering Mathematics, Michael Greenberg, Second Edition. Pearson Education."
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+            
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
+<!-- From: file:/D:/Android/JntuHR13SyllabusBook/app/src/main/res/layout/activity_mathematics_1.xml -->
